@@ -1,5 +1,4 @@
-
- 1. Introduction 
+1. Introduction 
 
 1.1 Purpose
 This is the Software Requirements Specification for GAMMA-J’s Web Store. This Web Store is designed to allow new online store owners a quick and easy means to setup and perform sales and other core business over the internet. This document will outline all of the functions, capabilities and requirements for Version 1 of GAMMA-J’s Web Store. Version 1 is planned for implementation on a “plug and play” USB Key. Future versions will be based on other network appliances.
