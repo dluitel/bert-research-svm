@@ -1,0 +1,1461 @@
+1	Introduction
+
+
+1.1	Purpose
+[I] Throughout this PWS, each paragraph is marked with an [O], an [M] or an [I]. The [O] paragraphs are mandatory outcomes that specify the end result to be achieved by the Contractor. The [M] paragraphs are mandatory requirements that are required to be delivered by the Contractor. The fulfillment of the mandatory requirements supports achievement of the mandatory outcomes. The [I] paragraphs are intended to provide contextual information to the Contractor.
+[I] The purpose of this PWS is to specify the In-Service Support (ISS) work to be provided by the Contractor for the Halifax-class Combat Systems (HCCS) Equipment Group (EG). The PWS also specifies the performance incentives which are linked to measureable outcomes.
+[I] The HCCS In-Service Support Contract (ISSC) will be long-term, flexible, and performance based and will evolve over the life cycle of the Halifax-class. Through a relational framework, Canada and the Contactor will form a strategic partnership to achieve mutually successful outcomes through an alignment of contract parties’ interests and processes.
+[I] The work to be carried out by the Contractor is tied to a series of performance measures selected to promote the ISS outcomes required by Canada.
+[I] It is intended that the ISS Contract will follow a Phased implementation. The Start-Up Phase followed by the Steady-State and Close-Out Phases are described in more detail in Chapter 2.
+[I] Interim support for the HCCS EG is currently provided through separate contracts with the OEMs. Canada intends to transition this work to the Contractor during the Start-Up Phase.
+[I] This contract will be for an initial period of six (6) years, followed by a series of potential contract extensions for additional periods of one (1) year, in a ‘rolling wave’ format illustrated below, which will continue until the end of life of the Halifax-class. Performance will be one of the criteria assessed for the award of contract extensions.
+ 
+ 
+1.2	PWS Structure and Organization
+
+[I] This PWS is organized as follows:
+Chapter 1 - Introduction
+Chapter 2 - General Requirements
+Chapter 3 - In-Service Support Management Chapter 4 - Technical Schedule Management Chapter 5 - In-Service Support Activities Chapter 6 - Training Support
+Chapter 7 - Electronic Information Environment Chapter 8 - Performance Monitoring and Assessment
+Appendix 1 - HCCS Performance Requirements Specification Appendix 2 - HCCS EG Configuration Item Index Report Appendix 3 - HCCS EG Technical Data Item List
+Appendix 4 - Data Item Descriptions (DIDs) Appendix 5 - Government Property
+Attachment 1- Loan Agreement for Government Furnished Equipment Attachment 2- Government Supplied Material (GSM)
+Attachment 3- Government Furnished Information (GFI) Appendix 6 – DND Owned HCCS EG Inventory
+Appendix 7 - List of References Appendix 8 - Glossary of Terms
+Appendix 9 - Abbreviations and Acronyms
+
+
+1.3	Background
+
+1.3.1	General
+[I] Six systems, now referred to as the Halifax-class Combat Systems (HCCS) Equipment Group (EG), were retrofitted through the Halifax-class Modernization/Frigate Life Extension (HCM/FELEX) Combat System Integration (CSI) Design-and-Build (DAB) contract. Installation commenced in 2010 and is forecasted to be completed by 2018. Additional systems and simulators were also acquired for the Royal Canadian Navy (RCN) Fleet Schools, Fleet Maintenance Facility Cape Scott (FMFCS), Fleet Maintenance Facility Cape Breton (FMFCB), and the Naval Electronic Systems Test Range Atlantic (NESTRA) and Naval Electronic Systems Test Range Pacific (NESTRP).
+[I]	The HCCS EG comprises the following:
+a.	3D Radar System SMART-S (OEM: Thales, Netherlands);
+b.	2D Radar System SG-180 (OEM: Saab Microwave, Sweden);
+c.	Navigation Radar NSC-26 (OEM: Raytheon Anschuetz, Germany);
+d.	Fire Control System CEROS200 (OEM: Saab Systems, Sweden);
+e.	IFF System MK XIIA (OEM: Telephonics, USA);
+f.	NS9003A-V2HC Electronic Support Measures (OEM Elisra, Israel; licenced Canadian Repair Facility is Lockheed Martin Canada); and
+g.	Associated Test Equipment and Training Aids.
+[I] In-Service Support (ISS) is currently provided through separate contracts with each Original Equipment Manufacturer (OEM).
+[I] The HCCS ISSC will be a single contract in which the Contractor will work with the OEMs or authorized representatives of the OEMs for each of the HCCS EG systems to provide long term ISS.
+ 
+1.3.2	Concept of Operations and ISS
+[I] The Royal Canadian Navy (RCN) currently operates twelve (12) Halifax-class frigates and intends to operate them until their end of life, which is currently estimated to be 2036. The HCCS EG is an integral component of the Halifax-class ships and will require ISS support until end of life for the Halifax-class.
+[I] Of the twelve (12) Halifax-class frigates, seven (7) ships are assigned to Maritime Forces Atlantic, located at Canadian Forces Base Halifax, Nova Scotia and five (5) ships are assigned to Maritime Forces Pacific, located at Canadian Forces Base Esquimalt, British Columbia.
+[I] The Halifax-class frigates support the DND requirement to defend Canada and Canadian interests and contribute to international peace and security. The ships will be self-sufficient and able to participate and integrate into joint missions with the United States or multi-national forces anywhere in the world. The ships will be assigned tasks/missions to fulfill this requirement. The HCCS EG will support the ships in its conduct of these assigned tasks/missions. Ships are deployable, self-contained and capable of remaining on station for a prolonged period and will be capable of integrating into the larger Command and Control, Communication and Computers, Intelligence, Surveillance, and Reconnaissance capabilities provided at the joint or national levels. In support of the missions, the HCCS EG will provide a situational awareness capability to provide for the co-ordination of activities and assets for open ocean and littoral operations.
+[I] In accordance with the Naval Materiel Management System Manual (NaMMS), the
+Halifax-class makes use of Programmed Work Periods (PWPs).
+[I] Programmed Work Periods require repair facility support and are comprised of Short Work Periods (SWPs), Assisted Maintenance Periods (AMPs), Docking Work Periods / Interim Docking (DWPs) and Refit/Extended Docking Work Periods (EDWPs).
+[I] The Contractor will be required to provide In-Service Support on the HCCS Equipment Group installed in all twelve (12) Halifax-class ships, RCN Fleet Schools, Fleet Maintenance Facility Cape Scott (FMFCS), Fleet Maintenance Facility Cape Breton (FMFCB), and the Naval Electronic Systems Test Range Atlantic and Pacific (NESTRA, NESTRP). Special Tools and Test Equipment (STTE) located at some of these sites will also require In- Service Support.
+[I] HCCS EG first and second level maintenance will be the responsibility of DND, and third level maintenance will be provided by the Contractor. However, the Contractor will have the capacity and capability to augment DND level one and two maintenance when requested, and conversely, DND may assist the Contractor to conduct level three maintenance.
+[I] The Halifax-class ships are also supported by: a Halifax-class Design Agent and Support Services Contract, a Halifax-class Work Period Contract East (WPC-E), a Halifax- class Work Period Contract West (WPC-W), and the Combat Systems Integration (CSI) Contract.
+
+
+1.4 Abbreviations, Acronyms and Definitions
+[I] Terms and acronyms and abbreviations used in this PWS are defined in the Glossary of Terms, Appendix 8 and Acronyms and Abbreviations in Appendix 9.
+[I]	In each case, the following applies:
+a.	acronyms when defined for the first time will appear capitalized in brackets following the applicable term, then used on their own thereafter;
+b.	if an acronym, abbreviation or term has two or more definitions, that definition or meaning which matches the context of the PWS statement in which it appears is to be used;
+c.	for terms not defined under the contract, the Oxford Concise Dictionary definitions apply.
+ 
+
+
+
+
+2	General Requirements
+
+
+2.1	Scope of Work
+[I] The scope of work includes In-Service Support Management, Technical Schedule Management, In-Service Support Activities, Training Support, Electronic Information Environment, and Performance Monitoring and Assessment for the HCCS ISSC.
+[I] Henceforth, Work is defined as the work requirements specified herein.
+[O] The Contractor must preserve the Design Intent (DI) of the HCCS EG.
+[I] Design Intent of the HCCS EG is defined by the product specifications and ship level Engineering Change specifications for the operation and maintenance of each HCCS EG system. The product specifications specify the form, fit and function of each HCCS EG system.
+[M] The Contractor must provide all Materiel in support of the HCCS EG unless otherwise stated herein.
+[I] The Contractor’s performance in conducting the Work will be assessed by Canada as described in Chapter 8.
+[M] The Contractor must support the HCCS EG systems that are installed in all Halifax- class ships and at the RCN Fleet School Halifax, FMFCS, FMFCB, NESTRA, NESTRP and STTE.
+[I] Canada may add or remove systems from the HCCS EG.
+[I] Canada may add or remove support locations for the HCCS EG.
+[M] The Contractor must provide all written deliverables and documentation (eg. reports, plans, schedules) to Canada in electronic form that is compatible with the software and versions in use at DND (eg. Microsoft Office, Microsoft Project).
+
+
+2.2	HCCS In-Service Support (ISS) Organization
+[O] The Contractor must conduct the Work herein with minimal intervention by DND.
+[I] The HCCS ISS organization will consist of a collaboration of Canada’s organization and the Contractor’s organization.
+[I] DND will retain Design Authority and System Authority responsibilities for the HCCS
+
+2.2.1	Integrated Equipment Management Team (EMT)
+[I] To work collaboratively and to facilitate the exchange of information, DND will establish an HCCS EG EMT.
+[M] The Contractor must participate in the HCCS EG EMT.
+
+2.2.2	East /West Coast Offices
+[I] Industry is expected to play a greater role in the delivery of ISS and will be co-located within the dockyards. A dedicated maintenance zone will be established to enable efficient service delivery and materiel management.
+[I] The Class Program Manager (Major Surface Combatant) will operate Halifax-class Detachment Offices on each coast. Point of contacts (POC) on each coast for co- ordinating the ISS activities for the Halifax-class Ships will be provided by Canada.
+[M] The Contractor must establish On-Site Management at Her Majesty’s Canadian Dockyards in Halifax and Esquimalt.
+[M] The Contractor must ensure that plans and schedules are integrated into the FMF Operations Departments’ plans and schedules.
+
+2.2.3	Roles and Responsibilities of DND
+[I] DND and the RCN will conduct ISS activities associated with the HCCS EG, pursuant to the Naval Materiel Management System (NaMMS) manual, the Naval Engineering Manual (NEM), and the Supply Administration Manual (SAM).
+
+2.2.3.1	Class Program Manager (CPM)
+[I] The CPM is the Design Authority (DA) responsible for Program Management, Platform Management and Materiel Assurance Management. CPMs are responsible to develop and execute the Class Program Plan (CPP) for the Halifax-class which includes setting the objectives and priorities for the development of the subordinate HCCS EG Program Plan (EGPP).
+[I] The CPM is responsible for the In-Service Support Program for the Halifax-class Ships.
+[I] The CPP incorporates operational requirements from the Directorate of Naval Requirements (DNR).
+
+2.2.3.2	Design Authority (DA)
+[I] The DA is responsible for the DI of the Halifax-class ships. DI constitutes the sum of all operational requirements, technical requirements, technical policies, and intended environmental conditions/limitations which govern the design, maintenance and operations of naval materiel.
+[I]	The DA, in ensuring materiel assurance management, has five (5) key responsibilities:
+a.	Competence and Authority: In support of the Class objectives laid out in the CPP, the CPM may initiate design tasks to improve or sustain capability while maintaining compliance with DI, the Certification Baseline, and Certification Plan. The DA is responsible to ensure that work is conducted in accordance with the principles of Naval Materiel Assurance (NMA);
+b.	Configuration Management: The DA has the responsibility to manage, track and confirm the configuration of the Class.
+c.	Class Performance, Safety and Security: The CPM provides assurance of class performance, safety and security. The DA holds the authority to approve any changes to DI.
+d.	Certification: The DA is responsible for ensuring the platform certification is current and for managing the certification program. This activity is governed by C-23-005-000/AG-001, the Naval Materiel Regulation for Surface Ships (NMRSS). Compliance and certification for the Halifax-class will be established by agreement between the Naval Materiel Regulatory Authority (NMRA) and the DA and outlined in the Halifax-class Certification Plan (HCCP).
+e.	Systems Integration Authority: The DA is responsible for managing the impacts of system integration, e.g. weight, electrical, heat loads, periodic auditing of configuration, and the approval of expenditure of margins resulting from design changes.
+
+2.2.3.3	Halifax-class Design Agent and Support Services Contract
+[I] The CPM is assisted in the execution of the Design Authority responsibilities through a Halifax-class Design Agent and Support Services Contract. This contract provides Engineering Change (EC) Management, Configuration Change Management, and Technical Data Management, including Margin Management and Control.
+
+2.2.3.4	Halifax-class Work Period Contracts
+[I] The CPM uses two WPC ISSCs, one for each coast, to execute cyclical Docking Work Periods (DWP). Presently, the frequency of each DWP is 60 months.
+[I] Under the Halifax-class WPC-W and WPC-E, DND will chair a Canada Industry Integrated Project Team (CI-IPT) and Working Group to coordinate the work and schedule for DWPs.
+
+2.2.3.5	Combat Systems Integration (CSI) ISSC
+[I] The CPM uses the CSI ISSC to provide all supportability requirements, including system engineering, systems integration, software engineering, software testing and material support services, for the Combat Management System (CMS), its associated hardware and all training aids.
+
+2.2.3.6	Equipment Group Program Manager (EGPM)
+[I] Responsibility for the HCCS EG will reside with the HCCS EGPM. The HCCS EGPM is responsible to the CPM. The Contractor will support the HCCS EGPM.
+
+2.2.3.7	System Authority (SA)
+[I] The SA for the HCCS EG will reside with the HCCS EGPM. The CPM delegates responsibility for Design Intent of the HCCS EG to the HCCS EGPM.
+
+2.2.3.8	Quality Assurance (QA) Management
+[I] QA responsibility resides with the Director of Quality Assurance (DQA). DQA will be responsible for the quality assurance inspection and audit aspects of this PWS. Canada will use other organizations to support quality assurance management such as the RCN Ship’s Staff (SS), Fleet Maintenance Facilities, the Naval Engineering Test Establishment, or other government’s QA organizations.
+
+2.2.3.9	Roles and Responsibilities of RCN
+[I] The following RCN Formations and units (including ships) are integral components of the HCCS EG Support Program and their roles and responsibilities are outlined below and described in NaMMS.
+[I] The intent is to authorize direct liaison between the Contractor and the appropriate Units/Formations to facilitate planning and scheduling of work. All work authorizations will follow the established contractual process.
+
+2.2.3.9.1	Formation and Fleet Commanders
+[I] The assignment of individual ships to specific readiness levels will not follow one single and identical rhythm across all units. Formation Commanders and Fleet Commanders have the authority to modify the readiness assignments and periods within a unit's operational cycle.
+[I] The ship readiness levels and expected annual usage of each Halifax-class ship will be specified by Canada.
+
+2.2.3.9.2	Ship’s Staff
+[I]	Ship’s Staff (SS) operate and maintain the ship in accordance with its Design Intent. The ship’s Commanding Officer and Engineering Officers are Duty Holders. SS responsibilities include:
+a.	executing on board HCCS first level preventive and corrective maintenance routines;
+b.	reporting HCCS operational deficiencies (OPDEF Report), and submitting maintenance requirements for Programmed Work Periods (PWP) including Docking Work Periods (DWP) and Short Work Periods (SWP);
+c.	ordering, receiving, and returning HCCS authorized Mobile Account Ship’s Table (MAST) spares and consumables;
+d.	co-ordinating access for the Contractor and executing safety routines during along-side maintenance periods;
+e.	co-ordinating medium to high risk activities which are disruptive on the jetty and between adjacent vessels;
+f.	executing care and custody maintenance routines in preparation for PWPs;
+g.	providing assistance to the Contractor to complete level three tasks, and;
+h.	implementing when requested, minor approved Engineering Changes (EC) and upgrading installations such as installing a software patch.
+
+2.2.3.9.3	Formations
+[I] HMC Ships on the East Coast are assigned to Maritime Forces Atlantic (MARLANT). HMC Ships on the West Coast are assigned to Maritime Forces Pacific (MARPAC).
+[I] The MARLANT and MARPAC Deputy Chiefs of Staff Engineering Operations (N37) and their staff are responsible for managing the Formation engineering and maintenance program.
+[I] The Formations are responsible to produce their associated annual (fiscal year) Operations Schedule, which is the principal document for scheduling and setting readiness levels for the operational fleet, shore establishments and supporting maintenance facilities.
+[I] RCN Formations assign specific readiness levels to individual ships. The assigned readiness levels establish the priorities for work. Formation Commanders and Fleet Commanders have the authority to modify the readiness assignments and periods within a Ship's operational cycle and this may cause an adjustment in the priorities for planned  and approved maintenance activities.
+
+2.2.3.9.4	Fleet Maintenance Facilities
+[I] Each Formation, Maritime Forces Atlantic (MARLANT) and Maritime Forces Pacific (MARPAC), has a Fleet Maintenance Facility (FMF) dedicated to the direct support of the Fleet. Each FMF performs Level Two and some Level Three maintenance tasks.
+[I]	For the HCCS EG, the FMFs have the following responsibilities:
+a.	assist SS in completion of Level One Maintenance,
+b.	conduct Level Two Maintenance,
+c.	conduct engineering and/or technical investigations and studies, when tasked,
+d.	provide in-theatre repair support, as directed by RCN, and
+e.	provide assistance to the Contractor as outlined in the Guide for In-Service Support Contracts in HMC Dockyards.
+
+2.2.3.9.5	Queens Harbour Master (QHM)
+[I] QHM is responsible for co-ordinating and controlling the safe operation of all military and commercial ship operations and movements within the designated harbour areas.
+[I] For the Halifax-class, including the HCCS EG, QHM coordinates waterfront operational activities (e.g. radiating or conducting harbour trials) in the Dockyards and Harbour areas.
+
+2.2.3.9.6	RCN Fleet Schools
+[I] RCN Fleet Schools are established on the Canadian Forces Base Halifax and Canadian Forces Base Esquimalt.
+[I]	For the HCCS EG, RCN Fleet Schools are responsible to:
+a.	deliver training to DND HCCS operators and maintainers throughout the in- service phase,
+b.	update Training Qualification Standards and Plans (QSPs), with Contractor input, and
+c.	perform limited Level One Maintenance on Training Aids.
+
+2.2.4 Roles and Responsibilities of the Contractor
+[I]	The Contractor is responsible to support the HCCS EG through the provision of the following:
+a.	ISS Management: implement a program and schedule that governs the delivery of cost effective and efficient ISS;
+b.	Technical Schedule Management: develop, update, co-ordinate and implement all schedules and associated trial activities for the HCCS EG within the Halifax-class availability schedule as defined by Canada;
+c.	ISS Activities: conduct the Work to support the HCCS EG including planning ISS activities, Design Intent management, configuration management, technical problem management, obsolescence management, technical data management, facilities and government property management, engineering support, maintenance, and materiel management;
+d.	Training Support: augment DND training resources and develop, deliver and update training material on an as and when requested basis;
+e.	Electronic Information Environment: implement and maintain the information management and technology resources to support the management and implementation of the HCCS EG ISS;
+f.	Performance Monitoring and Assessment: establish and conduct Performance Monitoring and Assessment of the Work herein, assess and monitor performance;
+[I] Resources are the facilities, materiel, technical data and personnel required to maintain the HCCS EG to meet readiness and sustainability requirements.
+[M] The Contractor must provide Resources necessary to perform the Work unless otherwise specified within this PWS.
+
+
+2.3	Applicable Specification, Precedence, Standards and Documents
+[I] Specifications, standards, technical documents, and other related documents that form part of this PWS will, unless otherwise detailed herein, be the version in effect on the date of issue of the Request For Proposal (RFP).
+[I] In the event of a conflict between the documents referenced herein and the contents of the PWS, the contents of the PWS will take precedence.
+[M] The Contractor must immediately notify the Contract Authority (CA) of discrepancies discovered within or among any of the attachments or documents that form part of this PWS.
+[I] In the event that reference documents are updated, either with newer versions or cancelled altogether, the use of the newer version, or the continued use of the cancelled reference, will be subject to review by the Technical Authority (TA).
+[I]	The documents will be given precedence in the following order:
+a.	Articles of the PWS;
+b.	DIDs;
+c.	All other Appendices to the PWS; and
+d.	Specifications, standards, technical documents, and other related documents referenced in the PWS.
+
+
+2.4	Data Deliverables
+[M] The Contractor must prepare and deliver all data as specified by the Data Item Descriptions in Appendix 4.
+[M] The Contractor must maintain and revise all data items.
+
+
+2.5	Management Functions, Core Work and Emergent Work
+
+2.5.1	General
+[I] Work performed by the Contractor will be divided into one of three categories: Management Functions, Core Work and Emergent Work.
+
+2.5.2	Management Functions
+[I] Management Functions are the management level work necessary to execute the Contract.
+[M] The Contractor must conduct management level work in accordance with this PWS.
+
+2.5.3	Core Work
+[I] Core Work is work that is predictable, quantifiable, recurring and performed within specified time periods. It will be defined on an annual basis in the approved Annual Operating Plan (AOP).
+[M] The Core work must be identified by the Contractor in the AOP for each ship by home port as detailed in this PWS, Section 3.2.2.2.
+[I] The scope and cost of the Core Work, identified in the Contractor’s AOP will be negotiated and agreed to between Canada and the Contractor.
+[I] Once the Contractor's AOP has been agreed between Canada and the Contractor, work will be authorized through a Task Authorization form (DND 626) and remunerated in accordance with the Contract.
+
+2.5.4	Emergent Work
+[I] Emergent Work is defined as work that is generally unplanned or unquantifiable, although of a known type.
+[M] Emergent work must be conducted by the Contractor on an as and when requested basis in accordance with the Basis of Payment of the contract.
+[M] Emergent Work will be authorized through a Task Authorization form (DND 626) and remunerated in accordance with the Contract.
+
+
+2.6	Work Phases
+
+2.6.1	Start-Up Phase
+[I] The purpose of the Start-Up Phase is for the Contractor to establish full service delivery capability and to implement and validate the performance management framework via data collection and assessment.
+[I] Interim support for the HCCS EG is currently provided through contracts with the OEMs. Canada intends to transition this work (not the contracts) to the Contractor during the Start-Up Phase.
+[I] The Start-Up Phase starts at contract award, and ends when a steady-state ISS capability has been verified by Canada to be acceptable to start the conduct of steady- state ISS of the HCCS EG.	The steady-state capability is achieved when the Contractor is providing sustainable ISS at full capacity for the HCCS EG.
+[I] The Start-Up Phase is estimated to be one (1) year in duration.
+[M] The Contractor must provide objective evidence to prove that Steady-State ISS capability has been achieved.
+[M] The Contractor must prepare the objective evidence in accordance with DID-SUP-001.
+
+2.6.2	Steady-State Phase
+[I] The purpose of the Steady-State Phase is to conduct ISS under a Performance Management Framework in order to deliver affordable and sustainable ISS to preserve the Design Intent of the HCCS EG.
+[M] The Contractor must support the HCCS EG under the Performance Management Framework to preserve the Design Intent of the HCCS EG.
+
+2.6.3	Close-Out Phase
+[I] The purpose of the Close-Out Phase is to ensure an orderly transition of support from the current Contractor to Canada to initiate the orderly reduction and termination of services leading to the disposal of HCCS EG systems and associated support items in compliance with Government of Canada and International (ITAR) regulations.
+[I] The Close-Out Phase starts at either notice of contract termination or when the Contractor is notified by Canada of the intention to retire the HCCS EG systems due to end of service life for some or all Halifax-class ships, and ends when all ships and all related transfer or disposal activities have been completed.
+[I] Canada will notify the Contractor when the Close-Out Phase should be implemented.
+[M] The Contractor must conduct an orderly transition of support to Canada.
+ 
+
+
+
+3	In-Service Support Management
+[I] The purpose of this chapter is to define the management support required for the
+[O] The Contractor must manage all aspects of the HCCS ISS contract.
+
+
+3.1 Objectives and Overview
+[I] The HCCS ISS Work will be managed using resources from both DND and the Contractor within an integrated management environment. HCCS ISS Work will also be synchronized with RCN and Halifax-class related activities, and managed within the related DND business plans and budgets.
+
+3.1.1 Program Objectives
+[M]	The Contractor must incorporate Canada’s objectives into its ISS Program, without limiting or affecting any other provision of the Contract. Canada’s objective are to:
+a.	achieve RCN operational objectives through the provision of ISS defined in the PWS;
+b.	reduce life cycle costs and optimize resources;
+c.	ensure each applicable HCCS EG system continues to achieve its Design Intent performance capability;
+d.	ensure responsible stewardship to comply with Canada’s environmental, safety, naval materiel, security, and international regulatory commitments;
+e.	successfully integrate the Contractor’s ISS Program and Canada’s elements of the ISS System; and
+f.	establish a work environment through effective collaboration that engenders trust, promotes innovation and best practice development, fosters the sharing of knowledge, skills, and resources, and creates joint efficiency improvement.
+
+
+3.2	Planning
+
+3.2.1	DND Responsibilities
+[I] DND manages and controls its own Halifax-class ISS System through the CPP, the EGPP, the ISS Contracts, the DND business plans, and all applicable DND ISS processes.
+[I] DND establishes the objectives, obtains the funding and required approvals of its HCCS EG ISS System.
+[I] DND retains responsibility as DA and SA for the HCCS EG.
+[I] DND will provide the Contractor the forecasted annual budget to aid in the development of the AOP.
+
+3.2.2	Contractor Responsibilities
+[O] The Contractor must implement an ISS Management Program that delivers ISS for the HCCS EG in a cost effective and timely manner that preserves the HCCS EG Design Intent.
+[M] The Contractor must support the HCCS Equipment Group Program Manager, in developing the EGPP and its associated CPP.
+[M] The Contractor must provide inputs to business and resource planning for the CPM.
+[M] The Contractor must provide inputs to other DND Halifax-class service providers (i.e. FMF).
+
+3.2.2.1 Program Management Plan
+[I] The Program Management Plan (PMP) is the plan that describes the Contractor's strategy, plans, methodologies and processes for meeting the requirements of the Contract.
+[M] The Contractor must develop and update a PMP that describes the organization and specifications for key staff positions, strategy, plans, methodologies and processes for meeting the requirements of the Contract.
+[M] The Contractor must prepare the PMP in accordance with DID-PM-001.
+[M] The Contractor must manage and perform the Work in accordance with the accepted PMP.
+
+3.2.2.1.1	Start-Up
+[O] The Contractor must develop and implement a Start-Up Plan that ensures the Contractor reaches the Steady-State work phase in a cost effective and timely manner to ensure there are no disruptions to the ISS of the HCCS EG.
+[M]	The Contractor must develop and update a Start-Up Plan that specifies the plan and schedule necessary to:
+a.	Establish its Program Management capability, including alignment with HCCS Program Management elements, DND Formations and assigned Units, and other Halifax-class ISS Service providers, so that services can be planned and delivered efficiently.
+b.	Establish full support capability to execute the Work.
+c.	Transition service support from the interim OEM service support providers.
+d.	Establish a performance management framework to initiate monitoring, reporting and assessment required to verify performance.
+[M] The Contractor must prepare the Start-Up Plan in accordance with DID-PM-002.
+[M] The Contractor must manage and perform the Work in accordance with the accepted Start-Up Plan.
+
+3.2.2.1.2	Close-Out
+[O] The Contractor must develop and implement a Close-Out Plan that ensures the orderly transition of support from the current Contractor to Canada or a third party in a cost effective and timely manner to ensure there are no disruptions to the ISS of the HCCS EG.
+[O] The Contractor must develop and implement a Close-Out Plan that ensures the orderly reduction and termination of services leading to the disposal of HCCS EG systems in a cost effective and timely manner to ensure that all disposal activities are completed prior to the disposal of the final Halifax-class ship or prior to the installation of the replacement HCCS EG system.
+[M]	The Contractor must develop and update a Close-Out Plan that specifies how the Contractor will:
+a.	coordinate with Canada when and how services will be terminated;
+b.	transfer Government Property to Canada or a third party;
+c.	dispose of the HCCS EG systems; and
+d.	provide all records that relate to the HCCS EG.
+[M] The Contractor must prepare the Close-Out Plan in accordance with DID-PM–003.
+[M] The Contractor must manage and perform the services in accordance with the accepted Close-Out Plan when notified by Canada.
+
+3.2.2.2	Annual Operating Plan (AOP)
+[O] The Contractor must develop and implement an AOP that specifies the Contractor’s work plan for the Work and aligns this work plan to the needs of the RCN to preserve the Design Intent of the HCCS EG.
+[I] The AOP is the Contractor’s work plan. The AOP will evolve to reflect RCN operational requirements and HCCS EG sustainment requirements. The AOP covers a one (1) year period and includes the Core and Emergent work. The AOP presents the work separately by East and West Coast Formations down to the individual ship level.
+[I] Canada may provide the forecasted annual budget to aid in the development of the
+[M] The Contractor must develop an AOP that aligns with Canada’s Fiscal Year.
+[M] The Contractor must develop an AOP for the coming Fiscal Year. The Contractor must develop or update draft AOPs for all future fiscal years of the Contract Period.
+[M] The Contractor must develop an AOP based on the assigned operational readiness levels for each Halifax-class ship which establishes the priority of ISS and the schedule of work plans for the Formations.
+[M] The Contractor must identify the Core work in the AOP so that Canada can align the proposed work to the Halifax-class CPP.
+[M] The Contractor must identify and prioritize the Emergent work in the AOP so that Canada can align the proposed work to the Halifax-class CPP.
+[M] The Contractor must include in the AOP, in order of recommended priority, any as of yet unfunded work that may be added to the program as future Core and Emergent work.
+[M] The Contractor must break down the work in the AOP by East and West coast formations down to the individual ship level.
+[M] In the event of ship readiness level changes, schedule changes, delays in execution of Work, or changes in funding, the Contractor must adjust the AOP. This may require an adjustment to the AOP for the out-years to ensure that any deferred work can be considered as part of the next Halifax-class business cycle.
+[M] The Contractor must prepare the AOP in accordance with DID-PM-004.
+[M] Throughout the course of Canada’s fiscal year, the Contractor must update the AOP as requested by the TA.
+[M] The Contractor must execute the Work in accordance with the accepted AOP.
+
+3.2.2.2.1	AOP Schedule
+[O] The Contractor must develop and maintain an AOP Schedule that provides information that enables Canada to assess schedule risk of the work being planned herein.
+[I] The AOP Schedule is a consolidated view of schedules such as individual system overhaul schedules and ship docking work period schedules, developed by the Contractor to deliver the Work herein.
+[M] The Contractor must develop and update an AOP schedule.
+[M] The Contractor must prepare an AOP Schedule in accordance with DID–PM-006.
+[M] The Contractor must use the accepted AOP Schedule for managing the work performed under this Contract.
+[M] The Contractor must obtain Canada’s approval for any amendments to the accepted AOP Schedule.
+[M] The Contractor must align the AOP Schedule with the Integrated Master Schedule produced and managed by the Halifax-class CPM.
+[M] The Contractor must schedule and align the accepted AOP work with the Halifax-class operational and PWP schedules specified through Technical Schedule Management.
+
+3.2.2.2.2	Work Breakdown Structure (WBS)
+[I] The WBS consists of an indentured list, graphical chart(s) and a complete hierarchical dictionary of the goods, services and other tasks to be performed under the AOP. It constitutes the principal framework for the HCCS EG ISS Program, control of scheduled work and formal reporting of schedule status for the AOP.
+[M] The Contractor must develop and update a WBS that consists of an indentured list, graphical chart(s) and a complete hierarchical dictionary of the goods, services and other tasks to be performed under the AOP.
+[M] The Contractor must prepare the WBS in accordance with DID-PM-007.
+
+3.2.2.2.3	Monthly Progress Report (MPR)
+[I] The MPR is the monthly reporting of the Work that was performed.
+[M] The Contractor must develop and update an MPR reporting the status of the Work that was performed.
+[M] The Contractor must prepare the MPR in accordance with DID-PM-005.
+[M] The Contractor must, upon request, provide supporting data for all reports to Canada.
+
+
+3.3	Business Continuity and Data Management
+[I] The purpose of Business Continuity Planning is to provide uninterrupted services and support to operations in the event a place of business or technical data is affected by different levels of disaster (natural disasters, theft, fire or flooding, security breach), which can be a localized short term disaster, or a permanent loss of a building/capability. This plan explains how the Contractor or its sub-contractors would continue to provide support services to ensure the operational capability of the Halifax-class is not compromised.
+[O] The Contractor must deliver uninterrupted services and support to the RCN.
+[O] The Contractor must ensure that all HCCS EG data is secure, accurate, and available in a timely manner to ensure the uninterrupted delivery of ISS for the HCCS EG.
+
+3.3.1 Data Management Tools
+[M] The Contractor must implement data management tools to provide HCCS EG data management with consistent access and retrieval methods, hierarchical relationships and traceability.
+[M] The Contractor must implement data management tools to provide requirements management, data processing and data reduction methods to support efficient business functions.
+[M] The Contractor must implement data management tools to enable all HCCS EG data to be transferrable to Canada.
+[M] The Contractor must implement a requirements management tool such that data can be transferred directly to Canada’s requirement management tool, IBM Rational DOORS.
+
+
+3.4 Relationship Management
+[I] Relationship Management fosters the sharing of knowledge, skills, and resources, and creates joint efficiency improvements.
+[O] The Contractor must manage relationships such that there are collaborative and effective working relationships between Canada and the Contractor and between the Contractor and other contractors to achieve mutually successful outcomes.
+[I] The HCCS ISS Contract will be managed as a relational contract, which represents a collaborative approach to meeting the operational requirements of the RCN.
+[I] Canada and the Contractor will jointly develop a Relationship Charter (RC) that will outline common goals, desired behaviours, joint governance, and collaborative processes. The purpose of the Relationship Charter is to ensure that Canada and the Contractor remain in an aligned relationship that delivers sustained value to both parties over the long term.
+[I] The Contractor will also prepare and submit a Relationship Management Plan that will describe how the Contractor proposes to enhance collaboration with Canada and to streamline key processes that involve interaction with Canada.
+[I] The Relationship Management Plan is a transitional document that is intended to facilitate the joint development of the Relationship Charter. The actions, tools, and processes proposed in this Plan will inform the content of the Charter.
+[I] Throughout the duration of the contract and through mutual agreement between Canada and the Contractor, the Relationship Charter is expected to evolve to better achieve the HCCS EG objectives.
+[I] A Canada-Industry Integrated Project Team (CI-IPT) will be formed. Membership of this CI-IPT is comprised of representatives from the HCCS ISSC, the Halifax-class Design Agent and Support Services Contract, the Halifax-class Work Period Contracts, Combat Systems Integration ISS Contract, the OEMs and authorized representatives of the OEMs and Canada entities that are working with Halifax-class ISS.
+[I] The outcome of this CI-IPT will be risk mitigation, issue resolution, and continuous improvement by achieving an effective working relationship and collaboration between Industry ISSC representatives and Canada. The Terms of Reference for the CI-IPT will be provided by Canada.
+[M] The Contractor must participate in the Canada-Industry Integrated Project Team (CI- IPT).
+[M] The Contractor’s participation in the CI-IPT must be proactive, responsive and
+
+3.4.1	Contractor - Canada
+[I] The Relationship Charter describes common goals, desired behaviours, and joint governance. It will include a series of mutually agreed upon processes to increase collaboration. It is through effective collaboration that a work environment that engenders trust, promotes innovation and best practice development is established.
+[I]	The Relationship Management Plan (RMP) describes how the Contractor plans:
+a.	on enhancing collaboration with Canada and streamlining the processes that involve interaction with Canada;
+b.	to align its goals, promote desired behaviours, and participate in joint governance, including managing subcontractor involvement in governance, as well as collaboratively making updates to the Relationship Charter; and
+c.	to collaborate with Canada in the management of risk and issues, and how it plans to streamline the processes for risk and issue management.
+[M] The Contractor must jointly prepare a Relationship Charter with Canada.
+[M] The Contractor must develop and update a Relationship Management Plan.
+[M] The Contractor must prepare the Relationship Management Plan in accordance with DID-PM-008.
+[M] The Contractor must manage and perform activities in accordance with the accepted RMP.
+
+3.4.2	Contractor - Other Contractors
+[M] The Contractor must collaborate with the OEMs, the authorized representatives of the OEMs, the Halifax-class Design Agent and Support Services Contractor, Halifax-class Work Period Contractors, the CSI ISS Contractor and other stakeholders to meet the requirements of the HCCS EG ISSC herein.
+
+
+3.5 Meetings
+[M] The Contractor must fully leverage available technology to reduce the cost of hosting and holding meetings.
+
+3.5.1	Minutes and Agenda
+[M] The Contractor must develop and update Meeting Agendas for all meetings.
+[M] The Contractor must prepare the Meeting Agenda in accordance with DID-PM-009.
+[M] The Contractor must develop and update Meeting Minutes for all meetings.
+[M] The Contractor must prepare the Meeting Minutes in accordance with DID-PM-010.
+
+3.5.2	Meeting Timings and Locations
+[I] The Contractor or Canada, by mutual agreement, may convene video or telephone conferences in lieu of face-to-face meetings.
+[M] The Contractor must convene meetings at the Contractor's facility or at an alternate location as agreed to by Canada and the Contractor.
+[M] The Contractor must provide, at its location, a venue with the necessary facilities, including telephone and internet connection, suitable for hosting meetings.
+
+3.5.3	Action Item Management
+[M] The Contractor must record action items arising from meetings, reviews or correspondence in an Action Item Log.
+[M] The Contractor must prepare the Action Item Log in accordance with DID-PM–011.
+
+3.5.4	Kick-Off Meeting
+[I] The purpose of the Kick-Off Meeting is to review and clarify requirements.
+[M] The Contractor must organize a Kick-Off Meeting with Canada no later than 30 calendar days after contract award at a time and location that is mutually convenient to both Canada and the Contractor.
+[M]	The Contractor must include, as a minimum, the following in the agenda for the Kick- Off Meeting:
+a.	Contractor briefing on the company and how it will be organized to manage the contract;
+b.	Roles and responsibilities of key personnel and points of contact;
+c.	Key contract terms;
+d.	Phases and Timelines;
+e.	ISS Activities;
+f.	Communications - Procedures for monitoring and reporting progress;
+g.	Procedures for managing risks and issues;
+h.	Contract administration and contract change procedures; and
+i.	Review of all plans submitted with bid.
+
+3.5.5	Progress Review Meeting (PRM)
+[M] The Contractor must schedule, plan and organize PRMs.
+[M]	The Contractor must convene PRMs as follows:
+a.	Start-up Phase: quarterly, unless otherwise mutually agreed, or directed by Canada.
+b.	Steady-State: semi-annually, unless otherwise mutually agreed or directed by Canada.
+[I] PRMs will be chaired by Canada.
+[I] The Contractor's major Subcontractors may attend as required by agreement between the Contractor and Canada. Canada may be accompanied to these meetings by outside consultants and other Contractors providing services to Canada.
+[M] The Contractor must coordinate with the CA for all arrangements related to PRMs.
+[M]	At each PRM, the Contractor must address, as a minimum, the following items:
+a.	Progress since the last PRM;
+b.	Integrated Master Schedule;
+c.	Technical Schedule;
+d.	Project Risks, associated mitigation, impact timeframe, contingency plan;
+e.	Action Items tracking and status updates from previous PRMs, other meetings and correspondence;
+f.	Technical Issues;
+g.	Obsolescence forecasts;
+h.	Contractual Issues;
+i.	Financial Issues;
+j.	Activities planned for the next reporting period; and
+k.	Such other items as may be required to affect the Contractor's solution or that the Contractor considers relevant to the work.
+
+3.5.6	Performance Assessment Meetings
+[I] The Performance Assessment Meetings will be used to review and assess the performance measurement data and metrics (Strategic Performance Measures, Key Performance Indicators, System Health Indicators) results.
+[I] The Performance Assessment Meetings will also be used to validate that the performance measures are meeting their intended purpose. Both parties will evaluate the requirement for additional performance metrics or to modify existing performance metrics.
+[M] The Contractor must schedule, plan and organize the Performance Assessment Meetings, chaired by Canada and the Contractor which coincides with the PRMs.
+[M]	The Contractor must prepare and include the following information for the Performance Assessment Meetings:
+a.	report the measurement metrics as defined in Chapter 8 (SPMs, KPIs, SHIs);
+b.	calculate the applicable performance award based on the performance measurement framework as defined in Chapter 8; and
+c.	make recommendations for changes to the measurement indicators and the Performance Measurement Framework.
+
+
+3.6 Direct Liaison with Formations, Units, OEMs and OEM authorized representatives
+[I]	Canada and the Contractor may convene meetings to:
+a.	Co-ordinate inputs to the HCCS EG EGPP and CPP;
+b.	Co-ordinate the development and approval of the AOP and AOP schedule;
+c.	Provide updates on operational activity;
+d.	Resolve specific Materiel issues;
+e.	Resolve technical problems; 
+f.	Discuss Performance Measurement and Assessment; and/or
+g.	Provide decisions, if needed, or assess progress in specific areas of the Contract.
+
+3.6.1	Direct Liaison with Formations and Units
+[I] The direct liaison between the Contractor and RCN Formations and Units to coordinate the exchange of information for planning and coordinating approved work is encouraged.
+[I] HMC Ships are responsible to conduct the preventive maintenance program, report deficiencies and initiate materiel demands. They may also request additional, deployed or along-side augmentation of support services from the Contractor. The Ship’s Staff coordinate and assist the Contractor staff when aboard.
+[I] In addition to performing Level Two and some Level Three maintenance tasks in support of Halifax-class Ships, FMFs, as outlined in the Guide for In-Service Support Contracts for HMC Dockyards May 2015, act as the lead in-service support provider for the Halifax-class, co-ordinating Ship’s support activities on the Dockyards and providing some minor support services (cranes, rigging, materiel movement, chemical cleaning, etc.) upon request. A Point of Contact (POC) for co-ordination of these activities will be provided to the Contractor after contract award. In addition, the HCCS EG Contractor provides materiel support and assistance to FMFs as and when requested through this POC using EWR procedures described in Chapter 2.
+[M] The Contractor must keep the TA informed of direct liaison activities.
+
+3.6.2	DND Direct Liaison with OEMs and OEM authorized representatives
+[M] The Contractor must enable DND to consult and communicate directly with the HCCS EG OEMs and the HCCS EG OEM authorized representatives.
+[I] DND will keep the Contractor informed of discussions with the HCCS EG OEMs and the HCCS EG OEM authorized representatives.
+
+
+3.7	Risk Management
+[O] The Contractor must identify and mitigate risks that may impact Canada’s ability to use the HCCS EG to fulfill RCN missions.
+[I] Risk management includes the ongoing identification and assessment of risks, the development and execution of agreed risk response plans, and the monitoring or evaluation of the risk response plans.
+[M] The Contractor must implement a risk management process to manage the identification, qualification, quantification, mitigation and control of risks.
+[M] The Contractor must factor in risks in the management and performance of the Work.
+[M] The Contractor must develop and update a Risk Management Plan that describes how the Contractor will manage risk, issues and opportunities throughout the life of the contract.
+[M] The Contractor must provide in the Risk Management Plan, a risk management framework that provides a governance structure by which risks are escalated to the appropriate decision level in a timely manner to permit mitigation steps and actions to be implemented.
+[M] The Contractor must include a Business Continuity Section as part of his Risk Management Plan.
+[M] The Contractor must prepare the Risk Management Plan in accordance with DID-PM-
+[M] The Contractor must implement the accepted Risk Management Plan.
+[M] The Contractor must establish and maintain a Risk and Issue Register to record and rank risk issues as they arise for tracking and reporting.
+[M] The Contractor must highlight significant risks in the MPRs in addition to recording them in the Risk and Issue Register.
+[M] The Contractor must input all risks and issues identified by the Contractor and Canada in the Risk and Issue Register.
+[M] The Contractor must include the current Risk and Issue Register in the MPRs.
+
+
+3.8	HCCS EG Operational Capability Assessment
+[I] Operational capability assessment defines the current and forecast capability state of the HCCS EG on a given ship based on its current materiel state, and in accordance with the Design Intent.
+[O] The Contractor must provide operational capability assessments that will allow the RCN to assess ship’s capability for specific missions based on the materiel readiness state of the HCCS EG.
+[I] DND will review and approve the readiness states, capability assessments, and processes to be used for the HCCS EG, using inputs from the Contractor and RCN operational staff. DND will also integrate HCCS EG processes within overall Halifax-class capability assessment processes.
+[M] The Contractor must provide HCCS EG operational capability assessments when failures occur that impact the HCCS EG Design Intent.
+
+
+3.9	Surge Management
+[O] The Contractor must provide uninterrupted services and support to the RCN during periods of unplanned urgent operational requirements.
+[I] Work demand will surge periodically due to unplanned urgent operation requirements not defined in the AOP.
+[I] DND will provide information on operational changes as soon as they are known to the Contractor to assist in planning development.
+[M] The Contractor must develop and update a Surge Response Plan that describes how the Contractor will manage and provide services to support the HCCS EG to accommodate situations when demand is outside normal activity rates.
+[M] The Contractor must prepare the Surge Response Plan in accordance with DID-PM-
+[M] As and when requested using the EWR procedures described in Chapter 2, the Contractor must manage and provide services according to the Surge Response Plan when demand is outside normal activity rates.
+
+
+3.10	Performance Management
+[I] Performance Management is fundamental to the HCCS ISSC. Performance Management will enable Canada to assess, measure and monitor the Contractor’s performance.
+[O] The Contractor must support and work within the performance management framework to enable Canada to assess, measure and monitor the Contractor’s performance.
+
+3.10.1	Performance Management Framework (PMF)
+[I] This PWS is performance based to incentivize the Contractor to continuously improve the efficiency and effectiveness of the HCCS EG and its ISS. The purpose of the PMF is to instil an integrated equipment systems management approach that is performance oriented and outcome focused.
+[I] Canada and the Contractor will validate and implement the PMF during the Start-Up Phase. The PMF will be continuously reviewed and updated to improve the support services to the benefit of both Canada and the Contractor. Actual incentive payments are anticipated to begin in the third year after contract award according to the terms and conditions of the contract.
+[I] The objective of a PMF is to measure and assess the performance of the Contractor to sustain the HCCS EG. The PMF will have performance indicators which include SPMs, KPIs and SHIs.
+[I] The emphasis is on establishing and validating the performance measures, data collection, and implementation of data analysis to support SPMs, KPIs and SHIs. This will ensure that these indicators accurately reflect performance and for DND and the Contractor to agree that they can be applied for the purpose of contract incentives.
+[I] It may be necessary to make changes to the performance assessment process or the performance measures. These changes will derive from Performance Assessment and Adjustment Reviews.
+[M] The Contractor must establish and maintain the processes to implement the PMF which is specified in Chapter 8.
+[M] Commencing at Contract Award, the Contractor must collect performance data to support the PMF.
+
+3.10.2	Performance Management Plan
+[M] The Contractor must develop and update a Performance Management Plan that describes how the Contractor will manage their performance for the duration of the Contract.
+[M] The Contractor must describe the performance metrics data sources, performance metrics data collection methodology and a summary dashboard.
+[M] The Contractor must describe the verification, validation and certification of the performance metrics.
+[M] The Contractor must certify the integrity of the performance metrics data.
+[M] The Contractor must prepare the Performance Management Plan in accordance with DID-PM-014.
+[M] The Contractor must implement Performance Management in accordance with the accepted Performance Management Plan.
+
+3.10.3	Performance Assessment Reporting
+[M] The Contractor must develop and update a Performance Assessment Report that describes the results of the performance measures.
+[M] The Contractor must prepare the Performance Assessment Report in accordance with DID-PM-015.
+
+3.10.4	Performance Assessment Reviews and Adjustments
+[I] Canada will assess and validate the Contractor’s reported performance. Canada may request additional objective evidence from the Contractor to substantiate the reported performance.
+[M] The Contractor must provide requested additional objective evidence to support the performance assessment.
+[M] The Contractor must resolve discrepancies with Canada.
+[I] Based upon performance assessment reviews, either Canada or the Contractor may make recommendations to adjust the Contractor’s performance assessment process.
+[M] The Contractor must recommend adjustments to improve the performance assessment process when needed.
+[M] The Contractor must implement the approved adjustments to the Performance Assessment process and Performance Management Plan as a result of Performance Assessment and Adjustment Reviews.
+[M] The Contractor must conduct analysis and assessment and validate the adjustments made to the Performance Assessment process.
+
+
+3.11	Continuous Improvement Program
+[O] The Contractor must achieve the lowest possible life cycle cost for the HCCS EG. 
+[M] The Contractor must conduct life cycle cost analysis to ensure that the lowest cost of sustaining the HCCS EG to the required level of performance is achieved.
+[M] The Contractor must implement a Continuous Improvement Program with the aim to improve the HCCS EG ISS program to achieve life cycle cost optimization while maintaining the Design Intent (DI) of the HCCS EG.
+[I] Assessment of the Continuous Improvement Program will be linked to the Performance Management Framework and Value Engineering activities.
+[M] The Contractor must report on the life cycle cost analysis and the results of the Continuous Improvement Program in the Performance Assessment Report.
+
+
+3.12	Naval Materiel Regulatory Requirements
+[O] The Contractor must ensure that the HCCS EG complies with all Naval Materiel Regulatory requirements.
+[I] The Design Authority is responsible for ensuring the currency of platform certification and for managing the certification program. This activity is governed by C-23-005- 000/AG-001, the Naval Materiel Regulation for Surface Ships (NMRSS). Compliance and certification for the Halifax-class will be established by agreement between the Naval Materiel Regulatory Authority (NMRA) and the Design Authority and outlined in the Halifax-class Certification Plan (HCCP).
+[I]	DND has established class standards to manage risks in eight key safety areas:
+a.	Structure;
+b.	Buoyancy, Stability and Controllability;
+c.	Engineering Systems;
+d.	Fire Safety;
+e.	Escape, Evacuation and Rescue;
+f.	Communications;
+g.	Navigation; and
+h.	Dangerous Goods.
+[I] A DND designated Recognized Organization (RO) will issue certificates of compliance or certifications of conformance, as applicable, for these safety areas.
+[I] Each certificate will be issued by the certification officer, or delegated an RO, based on materiel state evidence chosen to meet the goals and performance parameters detailed in the NMRSS.
+[I] Any deviations from DI that occur will be in accordance with NMRA and approved by Canada to ensure that risks are mitigated.
+[M] The Contractor must ensure that the HCCS EG installed on the Halifax-class Ships are maintained in accordance with each vessel's approved NMRA Certification Plan through the naval materiel regulatory process described in NMRSS.
+[M] The Contractor must work with the HCCS EGPM and RO to ensure that Class Certification and DI are maintained for the HCCS Equipment Group throughout the Halifax-class vessel’s life.
+[M] The Contractor must use DRMIS to report any deviations from the DI as part of the DND Naval Materiel Risk Management (NMRM) process and must provide materiel state evidence to the HCCS EGPM to support the DND Naval Materiel Certification process.
+
+
+3.13	Security Program Management
+[O] The Contractor must ensure that the continuity of RCN missions is maintained in the presence of security incidents, disruptions and emergencies that occur for the HCCS EG.
+[M] The Contractor must protect HCCS EG assets including technology, components, and information from compromise by implementing countermeasures to mitigate risks posed by threats and vulnerabilities.
+[M] The Contractor must apply the National Defence Security Orders and Directives (NDSOD) to the implementation of the asset protection.
+[M] The Contractor must protect assets using the guidelines specified in IT Security Risk Management: A Lifecycle Approach ITSG-33.
+[M] The Contractor must establish a governance structure to provide effective and integrated security risk management.
+[M] The Contractor must implement security as an integral component for the conduct of the Work.
+[M] The Contractor must adopt and amend security measures and implement those changes in the day-to-day operations in response to applicable security arrangements, partnerships and alliances.
+[M] The Contractor must institute and maintain procedures to ensure no counterfeit or non-compliant parts of assemblies of any kind are used.
+
+3.13.1	Security Risk Management Activities
+[M] The Contractor must implement a security risk management process.
+[M]	The Contractor must conduct the following security risk management activities:
+a.	Critical Program Information (CPI) Identification and Criticality Analysis;
+b.	Threat Analysis;
+c.	Vulnerability Assessment;
+d.	Risk Assessment; and
+e.	Countermeasure Implementation.
+ 
+3.13.2	Critical Program Information and Mission-Critical Functions and Components
+[I] Critical Program Information and mission-critical functions and components are the HCCS EG technology, components, and information that provide mission essential capabilities.
+
+3.13.3	Critical Program Information
+[I] Critical Program Information (CPI) are elements of the ISS of the HCCS EG that, if compromised, could cause significant degradation in mission effectiveness; shorten the expected combat-effective life of the system; reduce technological advantage; significantly alter program direction; or enable an adversary to defeat, counter, copy, or reverse engineer the technology or capability.
+[M] The Contractor must establish processes necessary for the safeguarding of HCCS EG CPI to prevent unauthorized or inadvertent disclosure, destruction, transfer, alteration, reverse engineering, or loss.
+[M]	The Contractor must protect the following HCCS EG CPI:
+a.	Information about applications, capabilities, processes, and end-items;
+b.	Elements or components critical to a military system or network mission effectiveness;
+c.	Technology that would reduce the Canadian technological advantage if it came under foreign control;
+d.	Classified military information which is considered a national security asset that will be protected;
+e.	Intellectual Property;
+f.	Design information;
+g.	Controlled Goods information; and
+h.	Commercial-off-the shelf (COTS) technology that fulfill a critical function within the system.
+
+3.13.4	Mission-Critical Functions and Components
+[I] Mission-critical functions are those functions of the system if corrupted or disabled, would likely lead to mission failure or degradation. Mission-critical components are primarily the elements of the system (hardware, software, and firmware) that implement critical functions. In addition, the system components which implement protections of those inherently critical components, and other components with unmediated access to those inherently critical components, may themselves be mission critical.
+[M]	The Contractor must plan and implement the following protection program for mission-critical HCCS EG functions and components:
+a.	Trade-off considerations (including cost/benefit analyses);
+b.	Resource allocations (staffing and budget);
+c.	Countermeasures planning and implementation;
+d.	Adjustment of countermeasures, as appropriate, for variations in the planned use or environment of inherited critical components;
+e.	Summary of consequences if compromised; and
+f.	Residual risk identification after countermeasures are implemented, including follow-up mitigation plans and actions.
+
+3.13.4.1 Criticality Analysis
+[M] The Contractor must identify and prioritize mission-critical HCCS EG functions and components.
+[M] The Contractor must decompose the end-to-end functions to identify the mission- critical functions and components.
+[M]	The decomposition and analysis must specify:
+a.	Identification and prioritization of system mission threads;
+b.	Mission threads decomposed into mission-critical functions;
+c.	Identification of system components that implement the mission-critical functions; and
+d.	Assigned levels of criticality based on failure consequences and ability to perform its mission.
+
+3.13.5	Supplier Threat Analysis
+[M] The Contractor must analyze the supply chain for HCCS EG mission-critical
+[M] The Contractor must provide to Canada the analysis results showing all suppliers for the mission-critical components and the assessed trust level of each supplier.
+[M] The Contractor must conduct a security risk assessment of the supplier’s ability to protect CPI.
+
+3.13.6	Vulnerability Assessment
+[I] Vulnerability is any weakness in system design, development, production, or operation that can be exploited by a threat to defeat a system’s mission objectives or significantly degrade its performance.
+[M] The Contractor must assess the vulnerabilities of the HCCS EG mission-critical functions and components identified in the criticality analysis.
+[M]	The Contractor must conduct a vulnerability assessment to include the following:
+a.	Identification of the vulnerabilities;
+b.	Assess and rate the severity of the vulnerabilities;
+c.	Develop vulnerability mitigations or countermeasures; and
+d.	Update other security analysis with the vulnerability analysis results.
+
+3.13.7	Risk Assessment
+[M] The Contractor must provide a security risk methodology that takes into consideration the criticality analysis, vulnerability assessment and supplier threat analysis. The probabilities of the identified risks must be provided in the security risk assessment.
+[M] The Contractor must develop and update a Security Risk Assessment and Countermeasures Report showing how security risks identified in the security risk assessment for the HCCS EG will be mitigated and the mitigation level to be achieved.
+[M] The Contractor must prepare the Security Risk Assessment and Countermeasures Report in accordance with DID-PM-017.
+[M]	The Contractor must consider the following in the development of the
+a.	Anti-tamper protection of critical system elements;
+b.	Information assurance measures to protect CPI to ensure system availability, integrity, authentication, confidentiality, and non-repudiation;
+c.	Software assurance for the design of software security protections;
+d.	Supply chain risk management for CPI and mission-critical functions and components;
+e.	Identification of trusted suppliers; and
+f.	System security engineering process.
+[M] The Contractor must implement cost-effective countermeasures.
+
+3.13.8	Security Incidents
+[M] The Contractor must report all security incidents of loss, compromise, or theft of proprietary information or trade secrets involving Critical Program Information.
+[M] The Contractor must report the security measures implemented to repair the loss or aid in recovery from the effects and resolution of any consequences of the security incidents.
+[M] The Contractor must conduct a post-incident analysis.
+[M] The Contractor must report security incidents immediately.
+
+
+3.14 Quality and Assurance Management
+[O] The Contractor must apply consistent processes and continuously improve these processes in the conduct of the Work on the HCCS EG. 
+[M] The Contractor must implement and maintain a documented Quality System conforming or equivalent (as accepted by Canada) to the ISO 9001:2008 Quality Management Systems - Requirements Standard and ISO 10005:2005 Quality Management System (QMS) - Guidelines for Quality Plans, throughout the period of this contract.
+[M] The Contractor must update the Quality System periodically in accordance with changes to the ISO standard.
+
+3.14.1	Quality and Assurance Management Plan (QAMP)
+[I] The Contractor’s QAMP provides Canada with an understanding of the Contractor's quality assurance program and how it is applied to ensure that an effective quality program is executed during the performance of the contract.
+[M] The Contractor must develop and update a Quality and Assurance Management Plan that describes the Contractor’s quality assurance program and processes.
+[M] The Contractor must prepare the Quality and Assurance Management Plan in accordance with DID-PM–018.
+[M] The Contractor must implement the accepted QAMP.
+
+3.14.2	Verification
+[I] Canada may conduct verification activities to ensure that the Contractor’s Quality Plans and Processes are compliant and implemented as required under the contract. The verification activities may include but not be limited to witnessing or observing key quality conformance inspections, tests and trials, audits, or witnessing of Contractor internal quality audits, or audits of subcontractors.
+
+3.14.3	Non-Conforming Products
+[I] DND will return to the Contractor products or materiel found to be defective or non- conforming.
+[M] The Contractor must replace defective or non-conforming products or materiel with compliant products and materiel.
+
+3.14.4	Deficient Services
+[I] DND will inform the Contractor of Contractor service, or sub-contractor service, found to be deficient.
+[M] The Contractor must rectify deficient services.
+
+
+3.15 Sub-Contractor Management
+[M] The Contractor must integrate the work of Subcontractors, distributors, and vendors into all Contractor plans, activities, schedules, and reports.
+[M] The Contractor must include relevant Subcontractor Management Processes as part of the PMP (DID-PMP-001).
+
+3.15.1	Maintenance of Support Agreements 
+[I] For Canada to retransfer Government Property (GFI/GFE) subject to ITAR or other Nations export controls, Canada will arrange for and maintain the required retransfer approval or applicable licenses.
+[M] The Contractor must obtain and manage any Technical Assistance Agreements, accreditations, and manufacturing licence agreements required.
+[M] The Contractor must obtain and manage any Third Party Transfer Agreements
+[M] As required under ITAR, if a Technical Assistance Agreement(s) (TAA), and/or Export License or similar document is required for the performance of the Work the Contractor must ensure that applicable documents are valid for the duration of the Contract.
+
+3.15.2	Maintain Supplier List
+[M] The Contractor must maintain a Subcontractor’s Supplier List.
+[M] The Contactor must provide a copy of the Subcontractor’s Supplier List to DND if requested.
+
+
+3.16	Support to Canada On-Site Personnel
+[M] As and when requested, the Contractor must provide access clearance, a point of contact, office space and infrastructure for any government personnel co-located with the Contractor at a Contractor’s or sub-contractor’s facility.
+
+
+3.17	Other Mandated Training
+[M] Prior to start of work at Dockyard locations, Contractor personnel must attend courses provided by the RCN to familiarize them with safety and emergency procedures to be followed in the Dockyard. Other safety training may be required depending on the work to be completed.
+[M] The Contractor must contact the MARLANT or MARPAC safety and environmental organizations to confirm training requirements.
+
+
+3.18	Intellectual Property Management
+[M] The Contractor must specify in the Program Management Plan (PMP) how their program and procedures will meet the IP and technical data obligations under the PWS.
+
+3.18.1	Intellectual Property Rights (IPR)
+[I] Canada acquired the foreground IP rights for the HCCS EG.
+[I] Canada did not acquire the background IP rights for the HCCS EG. All background intellectual property is retained by the HCCS OEMs.
+[I] Canada will provide the Contractor with the technical data acquired through the CSI DAB contract as GFI. This is specified in Appendix 5 – Government Property.
+[I] Canada will retain ownership and IP rights for all foreground IP resulting from this contract.
+[M] The Contractor must identify foreground and background Intellectual Property (IP) and ensure all deliverables to Canada are labeled accordingly.
+[M] The Contractor must obtain all necessary rights, licenses and agreements with each HCCS EG OEM and other third parties.
+[M] Any Technical Investigations completed or Engineering Change Proposals submitted must include reference to any involved or affected IP Licences.
+
+3.18.2	Intellectual Property Reports
+[M] The Contractor must report in an IP Report all IP provided by Canada, IP Licences and any new foreground IP developed in the execution of the Work.
+[M] The Contractor must provide Canada an IP Report that describes any new foreground IP developed in the execution of the Work.
+[M] The Contractor must prepare the IP Report in accordance with DID-PM-019.
+
+
+3.19 Controlled Goods Management
+[I] The Contractor and any subcontractor are advised that, within Canada, only persons who are registered under, exempt under or excluded under the Controlled Goods Program (CGP) are lawfully entitled to examine, possess or transfer Controlled Goods.
+[M]	The Contractor must ensure that all the Work is performed in compliance with all Controlled Goods laws and regulations of Canada. These include, but are not limited to, the following:
+a.	Export Control List under the Export and Import Permits Act;
+b.	Defence Production Act R.S.C. 1985, c. D-1;
+c.	Controlled Goods Regulations;
+d.	Related DND references are: DAODs 3003-0 and 3003-1; and
+e.	CFTO C-02-007-000/AG-001 Controlled Technology Access and Transfer (CTAT) Manual
+[M]	The Contractor must enforce and comply with all applicable laws, export control laws and regulations as part of the Controlled Goods Program (CGP) with regards to:
+a.	The procurement of materiel designated as Controlled Goods or subject to ITAR including Codification and Cataloguing of the materiel (as deemed necessary);
+b.	Embedded Suppliers;
+c.	Disposal of Controlled Goods;
+d.	Demilitarization of materiel designated Controlled Goods;
+e.	Security clearances and training for personnel requiring Controlled Good certification; and
+f.	Reporting of any suspected loss or compromise of Controlled Goods.
+[M] The Contractor must contact jurisdictional authorities and ensure that regulatory and legislative requirements are identified and satisfied throughout the duration of the Contract.
+[M] The Contractor must provide Canada with all Controlled Goods Disposal/Demilitarization Certificates and End User Certificates.
+
+3.19.1	Controlled Goods Program (CGP) Management Plan
+[M] The Contractor must develop and update a Controlled Goods Management Plan that describes how the Contractor will manage Controlled Goods to meet the requirements of the Defence Production Act, R.S.C. 1985, c. D-1.
+[M] The Contractor must prepare the Controlled Good Management Plan in accordance with DID-PM–020.
+[M] The Contractor must manage the Controlled Goods Program in accordance with the accepted CGP Management Plan.
+
+3.19.2	Import and Export Control Management
+[M] The Contractor must prepare any Import and Export control documentation and obtain all necessary permits for the HCCS EG when supporting local or deployed operations.
+[M] The Contractor must obtain and manage any Import and Export licenses that will be required between the Contractor and the OEMs, other Subcontractors or third parties.
+[M] If required, the Contractor must obtain and manage any Import and Export licenses required between the OEMs, other Subcontractors, or third parties and Canada.
+
+3.19.3	CTAT/ITAR Obligations
+[I] Controlled Goods will be assigned a Demilitarization Code.
+[M] The Contractor must provide the applicable Demilitarization Codes in their catalogues and Supplemental Provisioning Technical Documentation (SPTD).
+[M] For items not of US origin, but that meet the criteria described in the Canadian Export Control List Group 2, Group 6 and Article 5504, the Contractor must provide to Canada, the necessary source documents for Canada to initiate the process of assigning them a Demilitarization Code.
+[M] For any Interface Control Documents (ICDs) subject to the Controlled Goods Program (CGP) or that are ITAR controlled, the Contractor must obtain appropriate clearances before Canada can release these documents.
+
+
+3.20	Government Property Management 
+[I] Canada may provide Government Property to the Contractor including Government Furnished Equipment (GFE), Government Supplied Material (GSM), Government Furnished Facilities (GFF), and Government Furnished Information (GFI) subject to the terms and conditions of the Contract.
+[I] GFE, GSM and GFI available is listed in Appendix 5 to this PWS. The Contractor may request additional GFE, GSM and GFI not listed in Appendix 5. The CA and the TA will consider such requests and advise the Contractor of its decision.
+
+3.20.1	Government Property Management Plan
+[M] The Contractor must include Government Property Management in the PMP.
+
+3.20.2	Government Property Reports
+[M] The Contractor must develop and update a Government Property Report that lists all Government owned items held by the Contractor for the purpose of performing the Work.
+[M] The Contractor must prepare the Government Property Report in accordance with DID-PM-021.
+
+3.20.3	Assurance and Government Property Audit
+[M] The Contractor must maintain a database of all HCCS EG Government property in its custody.
+[M] The Contractor must initiate and complete a one hundred per cent (100%) stocktaking of all DND loaned materiel contained within the Contract Loan Account (CLA), and STTE at least once every two years in accordance with Volume 3 Chapter 8 of A-LM- 007-014/AG-001 and/or A-LM-184/JS-001.
+[M] The Contractor must assist Canada in conducting physical audits of all HCCS EG Government property.
+
+
+3.21	General Safety and Environmental Program Management
+[M] The Contractor must develop, implement and maintain General Safety and Environmental Program Management in the PMP to meet the requirements outlined in the following sub-sections.
+
+3.21.1	General Safety
+[I] It is DND / CF policy to maintain a program of General Safety, which ensures that safety considerations are incorporated into every aspect of departmental operations including Training and support activities.
+[M]	The Contractor must implement a general safety program conforming to the following references, when work is performed at government owned facilities:
+a.	A-GG-040-004/AG-001 - General Safety Program;
+b.	C-02-040-007/TS-001- General Safety Precautions;
+c.	C-02-040-009/AG-001- DND General Safety Standards;
+d.	Canada Labour Code, Part II
+e.	Canadian Environmental Assessment Act;
+f.	Canadian Fisheries Act;
+g.	CFAO 34-53 - DND Respiratory Protection Program;
+h.	CFAO 66-4 - Laser Safety;
+i.	DAOD 4002-0 - Nuclear Technology Regulation and Control; and
+j.	DAOD 4002-1 - Nuclear and Ionizing Radiation Safety.
+
+3.21.2	Environmental Management
+[M] For Environmental Health and Safety (EHS) Management, the Contractor must incorporate and document the Environmental Health and Safety (EHS) considerations into the decision making process for the Work.
+[M] The Contractor must comply with DND policies, orders, directives, instructions and best practices when accessing DND owned or controlled lands, buildings or equipment.
+[M] The Contractor must ensure that specifications, standards, support documents and test programs are reviewed for EHS compliance and appropriate warnings included.
+[M] The Contractor must conduct a Decommissioning and Disposal EHS Assessment prior to any decommissioning and disposal action being taken to ensure that the proper mitigation measures have been identified and that the instructions and plans are compliant with EHS legislations, regulations, and policies/directives that are in force at that time.
+
+3.21.3	Green Procurement
+[M] The Contractor must incorporate green procurement practices that align with the commitments Canada made in the Treasury Board Secretariat Green Procurement Policy.
+
+3.21.4	Occupational Health and Safety
+[M] The Contractor must implement and maintain an Occupational Health and Safety Management (OHSMS) System that is consistent with the principles presented in Occupational Health and Safety Assessment Series (OHSAS) 18001 at its facilities located in Canada and that is compliant with all applicable provincial/territorial legislative requirements, Industrial standards, health and safety policies and directives, the Canada Labour Code Part II, and the Canada Occupational Health and Safety Regulations.
+[M] The Contractor must apply the OHSMS throughout all of the Work.
+ 
+
+
+
+4	Technical Schedule Management (TSM)
+[O] The Contractor must align the production requirements with ship availability and RCN assigned priority.
+[I] TSM includes the collaboration between the RCN materiel support program and the operational program, supported by inputs from the HCCS SA and ISS Contractor.
+[M] The Contractor must manage the HCCS ISS within the approved operational program of the RCN for the Halifax-class ships.
+[I] The operational program establishes the readiness levels for the Ships within which dedicated maintenance periods will be established.
+[M]	The ISS Contractor must provide HCCS TSM Services to:
+a.	assist in the planning and scheduling of Programmed Work Periods (PWPs);
+b.	identify and ensure early resolution of any scheduling issues or conflicts;
+c.	ensure the identified and approved work packages are complete, so they can be efficiently sequenced and scheduled for approved PWPs;
+d.	ensure all the components, resources and materiel support required for each work package will be available to support the execution of approved PWPs; and
+e.	develop contingency plans and incorporate schedule flexibility to accommodate changes for unforeseen and/or immediate requirements.
+
+
+4.1	Planning Technical Schedule Management
+[M] The Contractor must address management of, and planning for, Technical Schedule Management Support in the PMP at DID-PM-001.
+[M] The Contractor must make available to Canada upon request, all associated plans, processes, procedures, instructions and data supporting the PMP.
+[M] The Contractor must provide Technical Schedule Management Support in accordance with the accepted PMP.
+[M] The Contractor must ensure that all Technical Schedule Management Support provided by Subcontractors are provided in accordance with the approved PMP.
+[M] The Contractor must prepare the Technical Schedule Management Support report in accordance with DID-TSM-001.
+[M] The Contractor must, upon request, provide supporting data for reports to Canada.
+
+
+4.2	Naval Materiel Regulation of Technical Schedule Management Support
+[M] The Contractor must conduct Technical Schedule Management Support to ensure HCCS ISS is planned, executed, completed, and supporting documentation is submitted to satisfy platform NMRA requirement.
+
+
+4.3	Programmed Work Periods
+[M]	The Contractor must coordinate and cooperate with the Formations, particularly the FMF and RCN ship staff, to ensure that :
+a.	work can be completed by FMFs, RCN ship staff and ISS Contractors in order of priority,
+b.	FMF, RCN ship staff and ISS Contractor work is planned and sequenced to maximize productivity during alongside maintenance periods, and
+c.	Records are updated, including the associated maintenance records and technical documentation to reflect the new materiel state of each HMC Ship upon completion of the work.
+[I] FMF Project Leaders (PLs) are responsible for managing delivery of services to a ship or a group of clients (e.g. HMCS FREDERICTON, Base and Lodger Units). PLs provide project management for SWP, Extended Docking Work Periods (EDWP), and coordinate resource support for their assigned ships.
+[I] During the work period, the PL develops a ship Work Period Schedule (WPS), manages the work requirements, de-conflicts work, adjusts for arisings, incorporates new requirements, and reports progress. If work conflicts occur that cannot be resolved by FMF Operations, N37 will be engaged.
+[M] The Contractor must prepare the work program for each PWP in accordance with the AOP and in line with RCN operational requirements through a structured process, with the objective of ensuring that systems essential to the upcoming operational period are adequately maintained.
+[M] The Contractor must liaise directly with the FMF PL and the WPC-E and WPC-W Contractors on matters for planning, executing, and close-out of HCCS EG work.
+[M] The Contractor must inform Formations, via the FMF PL, of significant work, such as EC or production activity that requires the ships to be alongside for long periods, being planned over the next three years.
+[M] The Contractor must inform Formations, via the FMF PL, of work that will require FMF resources so that the requirement can be assessed and incorporated into the WPS. The assignment of FMF resources to support the Contractor’s work will be based upon N37 priorities, and availability of FMF resources to support the work.
+[M]	During work period execution, to ensure the successful execution and on-time completion of all ship work, the Contractor must:
+a.	report progress to the PL,
+b.	notify the PL if changes to the WPS may be required,
+c.	advise the PL of any conflicts with tasks being conducted by FMF or SS; and
+d.	attend ship work period planning and coordination meetings.
+
+
+4.4	Ship Along-Side or at Sea Available
+[I] The Major Surface Combatant Class Program Plan (Halifax-class) and the Fleet Maintenance Facility Annual Operating Plan will provide periods when the vessel is along- side the jetty and under a normal manned routine. The vessel may also have periods at sea where HCCS EG work could be conducted.
+[M] The Contractor must coordinate and have the approval of the SS prior to conducting work outside of a designated maintenance period. SS will decide if such work can be conducted as to prevent interfering with the ship program.
+[I] During available periods, normal access is from 0745 to 1545, Monday through Friday as per SS regular working hours or as alternatively arranged by the Contractor with SS.
+[M] The Contractor must coordinate with the FMF PL for any FMF resources that may be required to support HCCS work.
+
+
+4.5	Docking Work Periods
+[I] As outlined in Chapter 1 of this PWS, the CPM uses two WPCs, one for each coast, to execute cyclical DWPs for each Halifax-class Ship.
+[I] DWPs will be conducted at the Shipyard specified by the WPC Contractors.
+[I]	For each HMC Ship, WPC Services will cover:
+a.	Planning and co-ordinating the work within ship availability;
+b.	Co-ordinating Ship access and addressing safety routines;
+c.	Preparation of a Ship level Project Management Plan for each DWP;
+d.	Conducting WPC Docking Services between DND and Shipyard to transfer custody of each ship in a safe and efficient manner.
+[I] Each Halifax-class ship will have an Operational Cycle not less than 60 months between major DWPs.
+[I] Under the WPCs, DND will chair a CI-IPT Working Group. The HCCS Contractor will be a member of the CI-IPT.
+[M] The Contractor must prepare a forecast of their work requirements for each DWP, to be submitted at the CI-IPT, along with any special safety or logistical requirements such as infrastructure, power, storage, IT and security.
+[M] The Contractor must confirm to the WPC-W and WPC-E Contractors the approval of their work package no later than 60 days in advance of the DWP.
+
+4.6	Unforeseen and Operational Requirements
+[I] Unforeseen and immediate requirements include, but are not limited to, work or other activities conducted on adjacent vessels, emergencies or emergency exercises, movements of vessels by QHM, dockyard resources availability changes, or other RCN requirements.
+[M] The Contractor and its Subcontractors must remain flexible to changes in vessel availability for ISS activities which in turn may affect the work of the Contractor and its Subcontractors.
+[M] The Contractor must manage, assess and update plans and schedules for all unforeseen and all unplanned, unscheduled and urgent operational requirements and assess their potential impacts to the AOP, PMP, and NMA certification.
+ 
+
+
+
+5	ISS Activities
+[I] ISS activities are the life cycle support activities needed to sustain the HCCS EG as well as guidance of other support services herein. It is centred on the DND equipment management concepts, policies and processes described in the reference documents.
+[O] Through the provision of ISS activities, the Contractor must ensure that the HCCS EG performs in accordance with the Design Intent.
+[O] The Contractor must ensure that the operation and maintenance of the HCCS EG is cost effective and in accordance with the Design Intent.
+[O] The Contractor must maintain an accurate and quantitative understanding of the cost to operate and maintain the HCCS EG in accordance with the Design Intent.
+
+
+5.1	Design Intent (DI) Management
+[I] The Contractor will assist the HCCS EG System Authority and the DND Equipment Management Team staff in maintaining, updating and confirming DI documentation, and in using DI as a basis for the delivery of ISS.
+[M] The Contractor must provide impact assessments and analysis of the HCCS EG to any changes to HCCS operational requirements.
+[M] The Contractor must provide impact assessments and analysis of the HCCS EG to any changes to HCCS operational and support concepts.
+[M] The Contractor must provide impact assessments and analysis of the HCCS EG to any changes to HCCS system requirements and resulting changes to specifications for the design of HCCS and its supportability.
+[M] The Contractor must provide Canada with on-going assurances of alignment between HCCS configurations, ISS and the corresponding DI documentation, including providing required objective quality evidence to DND to support evaluations and decisions using Naval Materiel Assurance procedures.
+
+
+5.2	Configuration Management (CM)
+[O] The Contractor must establish, manage and maintain complete and accurate configurations of the HCCS EG.
+[O] The Contractor must manage all changes to the configurations of the HCCS EG.
+[I] HCCS CM services are engineering and management services to control changes to the HCCS EG Configuration Baseline.
+[M] The Contractor must use the Configuration Items (CIs) specified in the HCCS Equipment Configuration Baseline in the CI Index Report.
+[M] The Contractor must execute and integrate CM of the HCCS EG.
+[M] The Contactor must seek approval from DND for any materiel changes that will increase the cost of the HCCS EG Configuration Items.
+
+5.2.1	Configuration Management Planning
+[M] The Contractor must develop and update a Configuration Management Plan (CMP) that describes the Contractor’s configuration management program and how it is organized and conducted.
+[M] The Contractor must develop and update in the CMP, the methods, procedures, and controls implemented to ensure effective configuration identification, change control, status accounting and audits of the total configuration including hardware, software and firmware.
+[M] The Contractor must prepare the Configuration Management Plan in accordance with DID-LM-001.
+[M] The Contractor must manage and perform the CM services in accordance with the accepted CMP.
+
+5.2.2	Configuration Management Program
+[M] The Contractor's CM program must include the configuration management of: systems, equipment, hardware, firmware, software, technical data package and training within each HCCS EG and sub-systems baseline configuration.
+[M] The Contractor must ensure that the current configuration of the HCCS EG is available in DRMIS.
+[M] The Contractor must perform configuration management in support of the implementation of ECs.
+[M] The Contractor must support an audit of its CM program if and when requested by Canada.
+
+5.2.3	Equipment Configuration Baseline Management
+[I] CM includes management of the defined product baseline for the HCCS EG.
+[I] The master HCCS EG product baseline will reside with Canada.
+[M] The Contractor must manage the product baseline.
+
+5.2.4	Configuration Identification
+[I] DND has ownership of the HCCS as-maintained configuration and approves changes proposed by the Contractor for DND configuration items.
+[M] The Contractor must identify new configuration items (CI) in accordance with CFTO D-01-002-007/SG-006 Requirements for the Selection of Configuration Items.
+[M] The Contractor must develop and update a CI List Report that provides a list of the HCCS EG CI.
+[M] The Contractor must prepare the CI List Report in accordance with DID-LM-002.
+
+5.2.5	Configuration Control
+[I] DND will validate and approve requirements for all recommended changes to the configuration items within the HCCS EG.
+[I] DND approves changes proposed by the Contractor for HCCS CI.
+[M] The Contractor must support the internal DND approval process with all necessary information to enable decisions.
+[M] The Contractor must prepare configuration changes and submit them for DND
+
+5.2.6	Configuration Status Accounting (CSA)
+[I] DRMIS is the DND Materiel Acquisition and Support (MA&S) system of record for all CM and EC processes.
+[I] The CSA report documents the status of change requests. The change requests may consist of engineering change requests, engineering change proposals, requests for deviations, and requests for waivers.
+[M] The Contractor must ensure that CSA information is available in DRMIS.
+[M] The Contractor must develop and update a Configuration Status Report that describes the record and tracking of the implementation of changes to each configuration item and associated technical data and documents.
+[M] The Contractor must prepare the Configuration Status Report in accordance with DID- LM-003.
+
+5.2.7	Configuration Audits
+[M] When requested by Canada, the Contractor must conduct physical and functional configuration audits for each HCCS EG to verify conformance to the product specification.
+[I] DND may participate in CM audits.
+[M] The Contractor must develop and update a Configuration Audit Plan that describes how the Contractor will conduct the audits.
+[M] The Contractor must prepare the Configuration Audit Plan in accordance with DID-LM- 004.
+[M] The Contractor must manage and execute audit activities in accordance with accepted Configuration Audit Plans.
+[M] The Contractor must develop and update a Configuration Audit Report that describes the results of any Configuration Audits conducted.
+[M] The Contractor must prepare the Configuration Audit Report in accordance with DID- LM-005.
+
+
+5.3	Technical Problem Management Support
+[O] The Contractor must identify all technical problems, implement timely resolutions to ensure there are no disruptions to the operations of the HCCS EG and identify any residual risk.
+[I] Technical problems related to the HCCS EG need to be managed and coordinated by the EMT. Within DRMIS, DND has an internal Technical Problem Management System (TPMS) and associated processes in place to present problems to the EMT and to track problem resolution.
+[I] Technical problems that cannot be reconciled or reconciled fully at the EMT level will be added to the Risk and Issue Register as specified in this PWS, Chapter 3.9.1.
+[M] The Contractor must record all information related to technical problems and resolutions for the HCCS EG in DRMIS.
+[M] The Contractor must include the date/time of problem receipt by the Contractor and the date/time of problem resolution by the Contractor to DRMIS.
+[M]	The Contractor must:
+a.	implement recommended solutions to resolve problems in a timely manner to minimize the impact on the availability of the HCCS EG;
+b.	link DND identified problems with associated Contractor identified problems;
+c.	provide status reports to DND on problems passed to the Contractor for resolution; and
+d.	assist the DND EMT staff in monitoring problem resolution and escalating
+
+
+5.4	Obsolescence Management
+[O] The Contractor must ensure that the HCCS EG remains supportable throughout its service life.
+[I] HCCS equipment by its nature will be subject to obsolescence issues during its service life and will require effective Obsolescence Management. ISS activities will support overall obsolescence management of the HCCS EG and its supportability.
+[M] The Contractor must manage and resolve obsolescence issues for the HCCS EG.
+[M] The Contractor must work with the HCCS EG OEMs and the authorized representatives of the HCCS EG OEMs to ensure obsolescence issues are identified as they arise.
+[M] The Contractor must identify obsolete items, conduct analysis and provide recommendations with substantiating data to support proposed actions to resolve any obsolescence issues, and provide these items, analyses, recommendations and actions in the Obsolescence Report.
+[M] The Contractor must assess the overall obsolescence risk of each HCCS EG system using the obsolescence data, analyses, recommendations and actions and provide the assessment in the Obsolescence Report.
+[M] The Contractor must assess the obsolescence risk of an HCCS EG system as low if and only if every obsolete item in the HCCS EG system has a feasible, timely and affordable plan to resolve the obsolete item’s obsolescence and ensure availability of the HCCS EG.
+[M] The Contractor must develop and update an Obsolescence Management Plan that describes how the Contractor will manage and resolve obsolescence issues for the HCCS EG.
+[M] The Contractor must prepare the Obsolescence Management Plan in accordance with DID-LM-006.
+[M] The Contractor must implement the accepted Obsolescence Management Plan.
+[M] The Contractor must prepare the Obsolescence Report in accordance with DID-LM-
+
+
+5.5	Technical Data Management
+[O] The Contractor must manage and maintain the HCCS EG technical data.
+[O] The Contractor must ensure the HCCS EG technical data is accurate and up-to-date.
+[O] The Contractor must ensure that the HCCS EG technical data is configuration
+[O] The Contractor must provide the HCCS EG technical data to the Halifax-class Design Agent, DND and other stakeholders in a timely manner to ensure the availability of up-to- date technical data.
+[O] The Contractor must adhere to all export, IP and security regulations related to the access, distribution and transfer of the HCCS EG technical data without intervention from DND.
+[I] The HCCS EG technical data is managed and synchronized within the Halifax-class Technical Data Management Program. Portions of the technical data are critical for the successful integration of the HCCS with the Halifax-class Combat Management System.
+[M] The Contractor must use the technical data list that is specified in Appendix 3 to form the initial HCCS EG technical data.
+[I] Management of technical data includes planning, collecting, organizing, storing, controlling, disseminating, using and disposing of technical data.
+[I] Technical Data held by the Contractor will remain the property of Canada. This includes Configuration Controlled Technical Data and Managed Technical Data and any other documentation and/or data developed or supplied in support of the Work.
+[M] The Contractor must produce, update, store, control, maintain, manage and distribute Technical Data in support of the Work.
+[M] The Contractor must correct any errors found in the Technical Data in a timely manner to ensure the availability of up-to-date and accurate technical data.
+[M] The Contractor must manage all forms of Technical Data including documents, manuals and drawings in any accepted media formats.
+[M] The Contractor must ensure that technical data conforms to DND formats and content in accordance with the accepted Technical Data Management Plan (TDMP).
+
+5.5.1	Technical Data Management Plan (TDMP)
+[M] The Contractor must develop and update a TDMP that describes how the Contractor will manage and maintain the HCCS EG technical data.
+[M] The Contractor must prepare the TDMP in accordance with DID-LM-008.
+[M] The Contractor must manage and provide Technical Data services in accordance with the accepted TDMP.
+[M] The Contractor must ensure that all Subcontractor Technical Data is managed in accordance with the accepted TDMP.
+
+5.5.2	Technical Data Management Design Authority
+[I] The DND Halifax-class Program Manager is the Design Authority, and is supported by a Halifax-class Design Agent Contractor.
+[I] The DND Design Authority and Halifax-class Design Agent Contractor will access and provide HCCS EG relevant data to DND stakeholders.
+[M] The Contractor must integrate and synchronize the HCCS EG technical data with the Halifax-class Design Agent technical data.
+[M] The Contractor must seek Design Authority approval for changes affecting HCCS ship interfaces.
+
+5.5.3	Technical Data Management Information System (TDMIS)
+[M] The Contractor must utilize a TDMIS for the management of all Technical Data.
+[M] The Contractor must track revisions to the HCCS EG Technical Data including ship particularization such that revision levels and any other pertinent status indicators are recorded in the Contractor's TDMIS.
+
+5.5.4	Technical Data Update
+[M] The Contractor must produce all new or revised HCCS EG Technical Data elements in the same format and languages used to develop the HCCS EG Technical Data.
+[M] The Contractor must advise Canada when a different data format needs to be used or translation is required.
+
+5.5.5	Technical Data Translation Requirements
+[M] The Contractor must carry out the Translation Accuracy Check process in accordance with Part 6 Section 4 and Part 12 section 2 of C-01-100-100/AG-006, “Specification, Writing, Format and Production of Technical Publications” for all translated material.
+[M] The Contractor must deliver the Translation Accuracy Check Certificates for all translated technical publications.
+
+5.5.6	Validation of Data
+[I] Technical data will be subject to validation by DND and the Contractor.
+[M] The Contractor must perform validation as required in the accepted TDMP.
+
+5.5.7	Technical Data Disposal
+[I] The Contractor will provide disposal and demilitarization plans to DND. DND will provide oversight on the Contractor disposal management and on its execution of disposal actions.
+[M] The Contractor’s disposal management must meet the DND disposal regulations and requirements.
+[M] As and when requested, the Contractor must prepare and submit disposal plans and decommissioning and disposal instructions for approval by the Technical Authority, using the EWR procedures described in Chapter 2.
+
+
+5.6	Facilities and Government Property Management
+
+5.6.1	Provision Government Property
+[I] Canada may provide the Contractor with Government Property, including Government Furnished Equipment (GFE), Government Supplied Material (GSM), Government Furnished Facilities (GFF), and Government Furnished Information (GFI) in order for the Contractor to perform the Work under the Contract.
+[M] The Contractor must make a request to Canada, in writing, for the provision of any GFE, GSM, GFF, and GFI.
+[I] Canada will consider the Contractor's Government Property requests on a case by case basis.
+[M]	For equipment supplied as GFE, the Contractor must:
+a.	be responsible for accepting the equipment and advising DND of any discrepancies between the list of GFE and the actual equipment received;
+b.	conduct maintenance to the extent specified by a governing DND Loan Agreement and as specified in the appropriate DND-supplied equipment maintenance manual;
+c.	bring any additional maintenance support requirements to the attention of DND. Additional maintenance support may be tasked to the Contractor;
+d.	be responsible for the maintenance and correct operation of any GFE; and
+e.	retain maintenance records for all loaned equipment.
+[I] Government Property will be subject to audit by Canada.
+
+5.6.2	Special Tools and Test Equipment
+[I] HCCS STTE was procured by Canada during HCCS EG acquisition to support DND assigned maintenance tasks. Canada will procure and retain ownership of STTE for DND assigned maintenance.
+[M]	The Contractor must:
+a.	assess STTE holdings and distribution requirements as part of the maintenance program, and recommend changes;
+b.	manage STTE inventory and store STTE not allocated to a Unit;
+c.	maintain, calibrate, repair, modify and certify all STTE in accordance with the applicable specifications; and
+d.	ensure that the STTE required for Unit maintenance activities is available when required.
+[M] The Contractor must replace lost or damaged equipment that is under Contractor control.
+[M] The Contractor must maintain a calibration register to track the calibration status of all STTE.
+[M] The Contractor must get approval from Canada for decisions involving the modification, substitution, manufacture or acquisition of STTE.
+
+5.6.3	Computer Support
+[M] The Contractor must manage, operate and maintain the computer resources, including hardware and software provided as GFE.
+
+5.6.4	Commercial Software
+[I] Commercial software includes standard off-the-shelf commercial software packages such as operating systems, and the software tool sets including configuration management tools, software development tools, documentation and data management tools, testing and metrics generation tools, process control tools, and general purpose tools.
+[M]	For any software Canada provides to the Contractor, the Contractor must:
+a.	use all software in accordance with the respective software licensing agreement.
+b.	be responsible for installation, customized procedures, script development, and optimization of user-changeable parameters; and
+c.	notify Canada of any requirement to upgrade software.
+[M] The Contractor must only upgrade software when authorized by Canada.
+
+
+5.7 Engineering Support
+[O] The Contractor must provide engineering support using recognized engineering practices to conduct the Work.
+[O] The HCCS EG is integrated with the Halifax combat system and the Contractor must support the Halifax-class Combat System Integration ISS Contractor.
+[I] HCCS engineering support services use system engineering principles and processes to deliver integrated engineering support services meeting the needs and DI of the HCCS EG. Engineering support services will be centred on conducting engineering investigations and introducing engineering changes to sustain HCCS EG capabilities over its service life.
+
+5.7.1	Planning Engineering Support Services
+[M] The Contractor must develop and update a Systems Engineering Management Plan (SEMP) that describes the Systems Engineering management and processes that the Contractor will implement to provide Engineering Support to the HCCS EG.
+[M] The Contractor must prepare the SEMP in accordance with DID-ES-001.
+[M] The Contractor must make available to Canada, upon request, all associated plans, processes, procedures, instructions and data supporting the SEMP.
+[M] The Contractor must provide Engineering Support in accordance with the accepted SEMP.
+
+5.7.2	Reporting Engineering Support Services
+[M] The Contractor must record Engineering Support activities in their system of record and, as necessary, in the DND MA&S system of record DRMIS.
+
+5.7.3	System Engineering Services
+[M] The Contractor must use system engineering and system engineering management processes for all aspects of the HCCS EG and its support.
+[M] The Contractor must use system engineering management processes to manage HCCS EG integration and interfaces within the overall Halifax-class.
+[M] The Contractor must work collaboratively with the Halifax-class Program Manager and its Halifax-class Design Agent Contractor to develop a Standard Ship Maintenance and Repair Specification (SSMRS) and ECs for the HCCS EG.
+[M] The Contractor must investigate and implement any changes required to the HCCS EG support system (spares, maintenance routines, etc.) when changes are made to the HCCS EG through ECs, Value Engineering or other activities.
+
+5.7.4	Engineering Changes (ECs)
+[I] Engineering Changes are required to sustain existing capabilities and implement new capabilities.
+[O] The Contractor must conduct Engineering Change (EC) development, installation, and verification work for the HCCS EG.
+[O] For any HCCS EG ECs that impact the ships’ and shore-based configurations, the Contractor must conduct ship level Engineering Change (EC) development, installation, and verification work.
+[O] The Contractor must develop ship level ECs that comply with the DGMEPM EC Process. The outcome of this EC work will achieve the Design Authority’s needs found in the EC System Requirements Document (SRD) which is based upon the Halifax-class DI.
+[M] The Contractor must ensure each EC complies with the SRD.
+[I] The EC process covers requirement definition through to the installation and acceptance of the change in the HCCS EG and the ship. Introduction of an EC also includes the establishment of the necessary logistic and training support changes required by the EC.
+[M] The Contractor must update all necessary logistic and training support material impacted by the EC.
+[I] For ship level ECs, DND adheres to the Configuration Management and Engineering Change policy described in NaMMS.
+
+5.7.4.1	Engineering Change Management
+[O] The Contractor must conduct the EC development, installation and verification work accurately, on-time, and within budget in accordance with planned engineering support as identified in the AOP.
+[O] The Contractor must collaborate with the System Engineer, Design Authority, System Authority, OEM, authorized representatives of the OEM, EC Installing Agent, Halifax-class Design Agent and other Stakeholders such that there is minimal intervention required by DND.
+[I] DND will review and approve ECs that impact the form, fit and function of the HCCS EG and the ship.
+[I] DND may also propose HCCS EG ECs.
+[M] The Contractor must develop and update an Engineering Change Management Plan (ECMP) that specifies the Contractor’s EC process.
+[M] The Contractor must prepare the ECMP in accordance with DID–LM–009.
+[M] The Contractor must manage and perform the EC work in accordance with the accepted ECMP.
+[M] The Contractor must work collaboratively with Canada to plan and conduct ship level EC development design reviews.
+[M] The Contractor must analyze DND-generated changes and provide feedback with supporting data to DND.
+[M] As and when requested, the Contractor must implement ECs approved by Canada, using the EWR procedures described in Chapter 2.
+[I] The EC System Requirement Document (EC SRD) specifies the DA’s requirements to achieve DI.
+[M] The Contractor must integrate EC development and installation with overall Halifax- class EC programs.
+[M] As and when requested, the Contractor must provide engineering support of EC installations conducted by DND, using the EWR procedures described in Chapter 2.
+[M] The Contractor must consider and recommend disposal activities and their associated costs within EC analyses.
+
+5.7.4.2	Engineering Change Proposals (ECP)
+[I] An ECP is a proposal for an engineering change to an HCCS EG configuration item.
+[M] The Contractor must develop and update ECPs that describe the proposed engineering change for any proposed changes to the form, fit and function of the HCCS EG.
+[M] The Contractor must develop ECPs taking into account the safety standard MIL-STD- 882E System Safety.
+[M] The Contractor must prepare the ECPs in accordance with DID-LM-011.
+[M] The Contractor must submit the ECPs to DND for review and approval, with recommendations and supporting data.
+[I] For clarity, the Contractor does not need to provide Engineering Change Proposals for proposed changes that do not change the form, fit and function of the HCCS EG.
+
+5.7.4.3	Engineering Change Development
+[M] The Contractor must develop ECs using systems engineering processes to ensure their effective integration into the HCCS EG, Halifax-class ships and shore installations.
+[M] The Contractor must develop and update ship level EC specifications in accordance with CFTO C-03-007-000/AG-001 Guide for the Development of an Engineering Change Installation Package.
+[M] The Contractor must prepare the ship level EC specifications in accordance with DID- LM-012.
+[M] The Contractor must ensure that ECs are compliant with the HCCS EG DI and the Halifax-class DI.
+[M] The Contractor must verify that adequate Halifax-class DI margins are available and reserved.
+
+5.7.4.4	Engineering Change Implementations
+[O] The Contractor must implement the approved EC within the required schedule.
+[M] The Contractor must develop the EC implementation schedule with all stakeholders.
+[M] The Contractor must co-ordinate and deliver all materiel required for the EC at the installation site.
+[M] The Contractor must provide engineering support and quality assurance for the installation of the EC. 
+[M] The Contractor must conduct, co-ordinate and support the verification of the implemented EC.
+[M] The Contractor must manage deviations and waivers that were raised during the EC implementation.
+[M] The Contractor must certify that the EC has been implemented as specified in the EC specification, meets all the EC SRD requirements and complies with regulatory requirements.
+
+5.7.5	Engineering Investigations and Studies
+[I] A range of in-service support engineering investigations and studies will be required. DND will require engineering advice from the Contractor, its sub-contractors and the HCCS EG OEMs and authorized representatives of the OEM.
+[M] As and when requested, the Contractor must conduct Technical Investigation and Engineering Studies (TIES) using the EWR procedures described in Chapter 2.
+[M] As and when requested, the Contractor must recommend and conduct Special Investigation and Technical Studies (SITS) using the EWR procedures described in Chapter 2.
+
+5.7.6	Engineering Tests and Trials
+[O] The Contractor must prove the HCCS EG performance via engineering tests and trials.
+[M]	The Contractor must:
+a.	develop DND Integrated Test and Trial Plans and Procedures in accordance with the accepted SEMP.
+b.	support the conduct of DND tests and trials;
+c.	perform engineering assessments of test and trial data; and
+d.	provide recommendations.
+
+5.7.7	Value Engineering Services
+[O] The Contractor must continuously improve the HCCS EG support system.
+[I] Value engineering processes will be used to continuously improve the HCCS EG support system.
+[M] The Contractor must develop and maintain a value engineering program in accordance with the accepted SEMP.
+[M] The Contractor must provide Value Engineering recommendations to Canada for review and approval.
+[M] The Contractor must recommend ECs to implement approved Value Engineering recommendations.
+[M] The Contractor must share HCCS EG lessons learned and improvements with the other Halifax-class ISS contractors and Canada to enable future work to be conducted in a more efficient manner.
+
+
+5.8	Maintenance
+[O] The Contractor must maintain the HCCS EG to meet its DI.
+[O] The Contractor must ensure that Level one, two, and three maintenance procedures of the HCCS EG are completed in a timely and coordinated manner to ensure the availability of the HCCS EG.
+[M] Regardless of who conducts the maintenance procedures, the Contractor must ensure that Level one, two and three maintenance procedures of the HCCS EG are completed and recorded in DRMIS.
+[M] The Contractor must coordinate Level one and Level two maintenance procedures of the HCCS EG with Ship Staff and FMF.
+[M] The Contractor must coordinate Level three maintenance procedures of the HCCS EG with the HCCS EG OEMs and authorized representatives of the HCCS EG OEMs.
+[I] In the event that the Contractor identifies issues with the completion of Level one and Level two maintenance procedures, Canada may authorize an EWR as described in Chapter 2, to address the issues.
+[M] The Contractor must conduct maintenance as specified in the applicable CFTOs and OEM manuals and technical bulletins.
+
+5.8.1 Maintenance Program Management
+[O] The Contractor must continually improve and optimize the HCCS EG maintenance
+[M] The Contractor must verify the accuracy of the HCCS EG maintenance tasks that are specified in publications.
+[M] The Contractor must input maintenance task procedures from Contractor data and publications into DND’s system of record (DRMIS).
+[M] The Contractor must particularize preventive maintenance schedules for each HCCS EG system by ship within DND’s system of record (DRMIS).
+[M] The Contractor must review maintenance data.
+[M] The Contractor must conduct reviews of the maintenance program.
+[M] The Contractor must promulgate updates to the maintenance program.
+[M] The Contractor must provide maintenance recommendations to the HCCS EMT and DND support personnel.
+[M] The Contractor must take into consideration the level of self-sufficiency required by the ship and the availability and skills of the crew and FMF, as specified in the Halifax- class Maintenance Profile, when developing changes to maintenance processes.
+ 
+5.8.1.1	Naval Maintenance Effectiveness Reviews (NMER)
+[O] The Contractor must ensure that the right maintenance is being performed on the right equipment, at the right time, and for the right reason.
+[I] The NMER is designed to facilitate continuous improvement.
+[M] The Contractor must conduct NMERs as specified in NaMMS.
+
+5.8.1.2	Maintenance Planning
+[M] The Contractor must develop and update a Maintenance Plan (MP) that describes how the Contractor will maintain the HCCS EG to meet its DI.
+[M] The Contractor must prepare the Maintenance Plan in accordance with DID-LM–013.
+[M] The Contractor must provide Maintenance in accordance with the accepted MP.
+[M] The Contractor must make available to Canada, upon request, all associated plans, processes, procedures, instructions and data supporting production support services within the MP.
+
+5.8.1.3	Maintenance Recording
+[M] The Contractor must record Maintenance activities in DND’s MA&S system of record DRMIS.
+
+5.8.2	First Level Maintenance
+[I] RCN Units (eg. ship staff) conduct Level One Preventive and Corrective Maintenance on the HCCS EG. RCN Units may be assisted by RCN Second Line maintenance organizations (FMFs), or by the Contractor, as and when requested.
+[I] Maintenance activities assigned to RCN Units are defined in the HCCS EG maintenance program.
+[M] As and when requested, the Contractor must provide assistance to RCN Ship staff to complete their assigned level one maintenance tasks using the EWR procedures described in Chapter 2.
+
+5.8.3	Second Level Maintenance
+[I] RCN Units (eg. FMFs) conduct Level Two Preventive and Corrective Maintenance on installed HCCS EG systems. FMFs may request assistance from the Contractor in the performance of these assigned tasks.
+[I] Maintenance activities assigned to the FMFs are defined in the HCCS EG maintenance program.
+[M] As and when requested, the Contractor must provide assistance to RCN FMFs to complete their assigned maintenance work using the EWR procedures described in Chapter 2.
+
+5.8.4	Third Level Maintenance 
+[I] The Contractor will be the provider of Level Three maintenance support. Level Three maintenance support represents all support services for the installed HCCS EG systems, removable assemblies and sub-components not assigned to RCN Units.
+[I] The Contractor may request the assistance of RCN Units (eg. FMFs) in the completion of some tasks or for the provision of some services. As detailed in Chapter 2, FMFs provide some minor support services (cranes, rigging, materiel movement, chemical cleaning, etc.) upon request as detailed in the reference Guide For In-Service Support Contracts In HMC Dockyards.
+[I] Maintenance activities assigned to the Contractor are defined in the HCCS EG maintenance program.
+[M] The Contractor must carry out all assigned third level maintenance support in accordance with the accepted MP.
+
+5.8.5	Additional Maintenance – Deployed Ships
+[I] Maintenance support may be required from the Contractor for deployed ships. FMFs may provide in-theatre repair support, as determined by the RCN.
+[M]	The Contractor must provide in-theatre support to deployed HMC Ships on an as and when requested basis using the EWR procedures described in Chapter 2 for:
+a.	emergency repairs;
+b.	provision of a Mobile Repair Party (MRP);
+c.	FSR Support; and
+d.	provision of support for HMC Ship maintenance periods while deployed.
+[I]	DND will provide the Contractor information on:
+a.	Security,
+b.	Status Of Forces Agreements (SOFA),
+c.	Criminal jurisdiction,
+d.	Provision of Emergency Medical care by HMC Ships; The Canadian Forces Health Services (CFHS) will provide medical and dental care to civilians in an emergency situation in order to alleviate pain and suffering and to preserve life to the extent required to evacuate the patient to a civilian medical facility.
+e.	Discipline: The CF retains the right to veto the deployment of any Contractor personnel for reasons of security, discipline or international relations and the right to require any Contractor personnel to be removed from the theatre on these same grounds.
+[M]	The Contractor must provide a deployment plan that includes the following details:
+a.	travel arrangements for their personnel for deployment and re-deployment to and from the deployed location;
+b.	confirm all personnel to be deployed have valid travel documentation;
+c.	confirm provision of pre-deployment screenings, immunizations, and post- deployment screenings to mitigate the risk associated with the provision of medical care and dental care beyond the emergency level provided once deployed;
+d.	arrangements for the shipping of any materiel support (i.e. spare parts, tools, office-containers, or personal equipment) pending receipt of Task Authorization;
+e.	necessary customs clearances; and,
+f.	any Controlled Goods management.
+[I] The Contractor, in conjunction with the appropriate military commander, is responsible for any Contractor personnel requiring disciplinary action.
+
+5.8.6	Additional Maintenance – Home Port
+[I] Additional maintenance support may be required for ships and FMFs in home ports.
+[M] As and when requested, the Contractor must respond to a request for Emergency Repair services, using the EWR procedures described in Chapter 2.
+[I] Emergency Repair services may include completion of an urgent safety related EC, accident related Technical Investigation or operational immediate task;
+[M] The Contractor must provide MRP Services and FSR Support to ships and FMF in home ports as requested;
+[M] The Contractor must conduct on-site inspections and surveys as requested;
+[M] The Contractor must contact designated POCs to arrange clearance for personnel not already pre-cleared when these additional services are requested.
+
+5.8.7	Maintenance & Calibration of Special Tools & Test Equipment (STTE)
+[O] The Contractor must maintain and calibrate the STTE used to support the HCCS EG systems.
+[I] DND is responsible to hold STTE required for their assigned tasks and to report any maintenance and calibration requirements to the ISS Contractor.
+[M] The Contractor must manage a maintenance and calibration program for the HCCS EG STTE.
+[M] As and when requested, the Contractor must provide replacement STTE while DND STTE is undergoing repair or calibration, using the EWR procedures described in Chapter 2.
+
+
+5.9 Materiel Management
+[O] The Contractor must have the materiel available to meet the corrective, preventative, and planned maintenance when required by ship staff, FMF, shipyards, the Contractor and other stakeholders.
+[O] The Contractor must conduct materiel management activities to include supply chain, materiel ownership, materiel warehousing, materiel movement and distribution, materiel repair and overhaul, and materiel disposal.
+[O] The Contractor must ensure that materiel management work is accurate, timely and cost effective to meet the availability requirements.
+[O] The Contractor must collaborate with the System Engineer, Design Authority, System Authority, OEM, authorized representatives of the OEM, EC Installing Agent, Halifax-class Design Agent and other Stakeholders such that there is minimal intervention required by DND.
+[O] The Contractor must minimize the amount of materiel that is held within DND warehouses.
+[M] The Contractor must manage overall supply chain support and inventories for the HCCS EG.
+[M] The Contractor must procure all materiel and services required to conduct the Work to support the HCCS EG.
+
+5.9.1	Materiel Management Planning
+[M] The Contractor must develop and update a Materiel Management Plan (MMP) that describes how the Contractor will have the materiel resource available to Canada when required.
+[M] The Contractor must prepare the MMP in accordance with DID-MM-001.
+[M] The Contractor must make available to Canada, upon request, all associated plans, processes, procedures, instructions and data supporting the Materiel Management Plan.
+[M] The Contractor must provide Materiel Management in accordance with the accepted MMP.
+
+5.9.2	Materiel Ownership
+[M] The Contractor must own all consumables and parts until consumed or installed aboard a Halifax-class vessel, or other RCN unit, at which time DND will assume ownership of the item.
+[I] DND owned parts and consumables held in DND inventory are listed in Appendix 6. While DND retains ownership, these parts and consumables will be physically handed over to the Contractor to use, manage, repair and dispose. When a part or consumable has been disposed or consumed, DND will not replace the part or consumable.
+[M] The Contractor must use, manage, repair and dispose of DND owned parts and consumables listed in Appendix 6 in accordance with the Contract.
+[M] The Contractor must use the DND owned parts and consumables first.
+[I] DND retains ownership and custody of all HCCS EG Special Tools and Test Equipment (STTE).
+
+5.9.3	Contractor Supply Management System
+[M] The Contractor must establish, manage and maintain a supply chain network.
+[M] The Contractor must include sub-contractor and OEM supply chain management in its supply chain network.
+
+5.9.4	DND Supply Management System
+[I] DND will manage its elements of the overall HCCS EG ISS supply chain.
+[M] The Contractor must include the impact of the DND supply system elements (eg. DRMIS, BLOG) in its supply chain.
+[M] The Contractor must provide accurate supply management data to DRMIS within 24 hours of changes.
+
+5.9.5	Inventory Management Services
+[M] The Contractor must provide inventory management services for the HCCS EG supply chain. This will include identification of recommended holdings for DND supply organizations.
+[M] The Contractor must ensure that inventory that deteriorates (shelf life, corrosion, etc.) is maintained appropriately such that the parts delivered to DND will be fit for purpose to enable the HCCS EG to meet its DI.
+
+5.9.5.1	Codification and Cataloguing Services
+[I] Supply items and assets flowing through the DND supply chain will need to be codified within the NATO codification system, and be catalogued within the Canadian Government Cataloguing System (CGCS) and DRMIS.
+[M] The Contractor must provide information to support the codification and cataloguing of HCCS EG supply items and assets within DND systems of record, DRMIS.
+
+5.9.5.2	Stock Assessments
+[I] Assessments and adjustments of stock levels at both DND and Contractor warehouses will be required to ensure effective and efficient operation of the HCCS EG supply chain.
+[M] The Contractor must conduct analyses of stock movements and holdings to assess stock adequacy and provide stock level recommendations to DND for DND holdings.
+[M] The Contractor must establish approved stock levels and stock advisory information in DND systems of record (DRMIS).
+
+5.9.5.3	Long Lead Item Management
+[M] The Contractor must manage Long Lead Items (LLI) (any item requiring more than one year to acquire) within their supply chain to ensure that the HCCS EG DI is not impacted.
+[M] The Contractor must develop and update a LLI List.
+[M] The Contractor must prepare the LLI List in accordance with DID-MM-002.
+
+5.9.5.4	Management of Reserve Accounts
+[I] Certain DND supply accounts may be identified as reserve holdings to meet surge or operational requirements.
+[M] The Contractor must reserve stock to meet surge or operational requirements.
+[M] The Contractor must accommodate DND reserve accounts within their supply chain including controlling access to items held in such supply accounts.
+
+5.9.6 Materiel Warehousing
+[M] The Contractor must be responsible for its own warehousing of materiel until the materiel is transferred to DND custody.
+
+5.9.6.1	Government Furnished Material
+[M] The Contractor must ensure that within its warehouse, GSM and GFE are secured separately from the Contractor’s other holdings.
+[M] The Contractor must develop and update a GSM Status/Shortage Report.
+[M] The Contractor must prepare the GSM Status/Shortage Report in accordance with DID-MM-003.
+[M] The Contractor must develop and update a GFE Status Report.
+[M] The Contractor must prepare the GFE Status Report in accordance with DID-MM-004.
+
+5.9.6.2	Materiel Regulations
+[M] The Contractor must warehouse and maintain inventory control over materiel subject to CGP/ITAR and export licenses separately from all other materiel.
+[M] The Contractor must report to Canada materiel issued to DND subject to CGP/ITAR and export license control.
+[M] The Contractor must comply with all applicable Federal, Provincial and local laws and regulations for the warehousing of Dangerous Goods and Hazardous Substances.
+
+5.9.7	Materiel Movement and Distribution
+[M] The Contractor must distribute materiel to/from Contractor locations to the established handover points at CFB Esquimalt and CFB Halifax.
+[I] Canada may include additional handover points if required.
+[M] The Contractor must make all necessary arrangements to transport parts and equipment to and from foreign countries.
+[I] DND will advise the Contractor when materiel is available for pick-up from the handover points.
+[M] Upon notification from DND the Contractor must collect the materiel within five (5) working days.
+[M] The Contractor must comply with all applicable Federal, Provincial and local laws and regulations for the movement of any Dangerous Goods and Hazardous Substances.
+
+5.9.8	Materiel Repair and Overhaul (R&O)
+[M] The Contractor must develop and update a HCCS EG R&O plan that describes the Contractor’s R&O process.
+[M] The Contractor must prepare the HCCS EG R&O plan in accordance with DID-MM-005.
+[M] The Contractor must implement the HCCS EG R&O services in accordance with the accepted HCCS EG R&O plan and Special Instructions – Repair and Overhaul Contractors A-LM-184-001/JS-001.
+[M] The Contractor must repair all unserviceable HCCS EG parts and STTE to return to serviceable condition.
+[M] The Contractor must overhaul all the HCCS EG assembly sets to restore to serviceable condition and operational performance as scheduled in the AOP.
+[M] The Contractor must conduct warranty actions.
+[M] The Contractor must conduct economic trade-off assessments to buy or repair HCCS EG parts.
+
+5.9.9	Materiel Divestment & Disposal
+[O] With minimal intervention from Canada, the Contractor must divest and dispose of HCCS EG materiel in a cost effective manner in accordance with all applicable regulations.
+[I] DND will provide oversight on the Contractor divestment and disposal plans and on their execution of divestment and disposal actions.
+[M] The Contractor must establish and maintain HCCS disposal processes for HCCS EG systems, parts and consumables.
+[M] The Contractor must dispose of HCCS EG parts and consumables throughout the in- service life of the HCCS EG.
+[M] As and when requested, the Contractor must divest or dispose of HCCS EG systems, using the EWR procedures described in Chapter 2.
+[M] The Contractor must adhere to government Hazardous Material (HAZMAT) and environmental regulations when disposing and divesting of both Contractor and Canada owned HCCS EG systems, parts and consumables.
+[M] The Contractor must de-militarize materiel in accordance with CGP/ITAR when disposing and divesting of both Contractor and Canada owned HCCS EG systems, parts and consumables.
+[M] The Contractor must adhere to export license regulations when disposing and divesting of both Contractor and Canada owned HCCS EG systems, parts and consumables.
+[M] The Contractor must maintain a registry of all Controlled Goods (CG) and documents that have been approved for demilitarization.
+[M] The Contractor must develop and update a Controlled Goods Report that lists all items in the registry.
+[M] The Contractor must prepare the Controlled Goods Report in accordance with DID- MM-006.
+[M] The Contractor must prepare the End User Certificates and distribute as per DAOD 3003-0 Controlled Goods and DAOD 3013-1 Disposal of Surplus Materiel.
+
+5.9.9.1	Planning
+[M] The Contractor must develop and update a Divestment and Disposal Management Plan (DDMP) that describes how the Contractor will divest and dispose of HCCS EG materiel in a cost effective manner in accordance with all applicable regulations.
+[M] The Contractor must prepare the DDMP in accordance with DID-MM-007.
+[M] The Contractor must execute the Divestment and Disposal Program in accordance with the accepted DDMP.
+
+5.9.9.2	Divestment and Disposal Activities
+[I] As a result of an HCCS EG system divestment or disposal, there may be reductions in the Work such as reduced maintenance requirements and a reduction in spare parts required.
+[M] In the event of an HCCS EG system divestment or disposal, the Contractor must adjust the Work included in the approved AOP to update schedules and maintain cost effectiveness.
+[M]	For the HCCS EG systems, parts and consumables designated for divestment or disposal, the Contractor must:
+a.	advise Canada of the potential and proposals for buy-back, sales or cost recovery for designated surplus spares;
+b.	conduct environmental assessments for equipment, sub-system(s), and system(s) selected for disposal;
+c.	dispose of all hazardous and electronic waste removed or uncovered in the performance of the work in accordance with the requirements of the Contract and all applicable federal, provincial and municipal laws; 
+d.	develop detailed disposal instructions which will include but are not limited to CTAT/ITAR and export license issues;
+e.	demilitarize all parts and assemblies subject to CTAT/ITAR and export licences, and conduct the following:
+i.	dispose of all residues resulting from the demilitarization process;
+ii.	complete the Certificate of Demilitarization (DND Form 2586) for all parts and assemblies that have been demilitarized as per DAOD 3003-1 The Management, Security and Access Requirements Relating to Controlled Goods;
+iii.	advise Canada ten (10) days in advance of demilitarization activities. Canada reserves the right to witness the demilitarization activity.
+iv.	forward the Certificate of Demilitarization to the Contracting Authority and Technical Authority, within 30 days after demilitarization has been carried out; and,
+f.	develop and update a Disposal Report upon completion of disposal tasks,
+g.	prepare the Disposal Report in accordance with DID-MM-008;
+ 
+
+
+
+6	Training Support
+[I] The RCN has operator and maintainer training systems for the HCCS EG. The RCN also delivers operator and maintainer training courses on both coasts.
+[I] Anytime the Contractor makes a change to the HCCS EG that impacts operator usage of the systems, or impacts the maintenance routines, the Contractor needs to assess the impact of the changes on the training material, and update the training material as necessary.
+[O] The Contractor must provide operation and maintenance process updates to the maintainers of the HCCS EG training systems, training material, and training courses.
+[M] As and when requested, using the EWR procedures described in Chapter 2, the Contractor must augment the delivery of HCCS EG operator and maintenance training by the RCN schools, by supplying instructors that are qualified on the HCCS EG systems.
+[M] As and when requested, using the EWR procedures described in Chapter 2, the Contractor must deliver HCCS EG operator and maintainer training at DND facilities, by supplying instructors that are qualified on the HCCS EG systems.
+[M] The Contractor must identify any changes to the skills and competency required by the RCN to align with the current operator and maintenance processes.
+[M] When required by Canada, the Contractor must provide instructions and course material in both Official Languages (English and French).
+[M] The Contractor must report on Training Support as part of the MPR in accordance with DID-PM-005.
+[M] The Contractor must, upon request, provide supporting data for reports to Canada.
+ 
+ 
+ 
+ 
+7	Electronic Information Environment (EIE)
+[I] The EIE will be required to support the ISS of the HCCS EG. The EIE will be used to support Canada’s system of record and a collaborative environment.
+[I] Canada’s MA&S system of record for DND assets is an Enterprise Resource Planning (ERP) system known as the Defence Resource Management Information System (DRMIS). DRMIS is hosted on the DND Defence Wide Area Network (DWAN) and is used by DND personnel and contractors to support assets.
+[I] The EIE will support the exchange of transactional data and technical information.
+[I] The EIE will support the Electronic Data Exchange (EDE) and a Collaborative Environment (CE).
+
+
+7.1	Navy EIE Processes
+[I] The Navy EIE Processes are evolving. A current view is that the Contractor will not have direct access to DRMIS, but will be provided with and will have to respond to DRMIS demands and notifications.
+[M] The Contractor must implement the electronic exchange of transactional data and technical information in accordance with Navy EIE Process Models.
+
+
+7.2	HCCS EG System of Record
+[O] Following any changes to the HCCS EG, the Contractor must update the DRMIS system of record within 24 hours.
+[M] The Contractor must provide accurate updates.
+[M] The Contractor must verify and validate the updates.
+
+
+7.3	Collaborative Environment (CE)
+[O] The Contractor must conduct program management and the ISS of the HCCS EG using an electronic virtual collaborative environment.
+[M] The Contractor must implement the electronic virtual collaborative environment to meet the CE Requirement Specification.
+[M] The Contractor must implement the CE to provide efficient business capabilities to support the Work.
+[M] The Contractor must provide CE training to Canada.
+[M] The Contractor must provide a CE implementation plan.
+[M] The Contractor must provide full access and use of the CE to Canada via the DWAN.
+
+
+7.4	Contractor IT/IM Infrastructure
+[M] The Contractor must maintain its own requisite IT infrastructure and associated plans, policies and processes.
+
+
+
+
+8	Performance Monitoring and Assessment
+[O] The Contractor must provide objective evidence to prove its performance against the performance metrics specified in the Performance Requirements Specification (PRS) at Appendix 1.
+[I] Canada will validate the Contractor’s performance against the objective evidence provided.
+[I] The purpose of Performance Assessment is to provide an evaluation of current ISS performance, process efficiency, system health, and PWS compliance.
+[I] Performance Assessment forms the basis for awarding incentives to the Contractor.
+
+
+8.1 Performance Assessment Activities
+[M] The Contractor must conduct Performance Assessment activities in accordance with the accepted Performance Management Plan.
+
+8.1.1	Measure, Analyse and Record Performance
+[M]	In accordance with the PRS, the Contractor must collect, measure, analyse, record and report on three types of performance indicators:
+a.	Strategic Performance Measures (SPMs);
+b.	Key Performance Indicators (KPIs); and
+c.	System Health Indicators (SHIs).
+[M] To support the performance indicators, the Contractor must compile a list of Materiel OPDEFs to include ship name/number, HCCS EG system, date initiated, date rectified, duration in days, Materiel OPDEF description, capability lost, sub-system/equipment affected, OPDEF Category, number of OPDEF Days.
+[M] To support the performance indicators, the Contractor must compute the number of RCN Days which are the total number of operational days for each ship in the Halifax- class. It is calculated by counting the number of days, for each ship, that the ship is not in a scheduled work period as listed on the Major Surface Combatant Class Program Plan (Halifax-class) and the Fleet Maintenance Facility Annual Operating Plan.
+[M] To support the performance indicators, the Contactor must conduct and provide to Canada an annual trend analysis, starting at the date of contract award, of the OPDEFs per RCN Day for each OPDEF Category for each HCCS EG system.
+[M] For all corrective maintenance actions, to support the performance indicators, the Contractor must compile a list to include ship name/number, HCCS EG system, equipment/assembly, component that failed, effect on system, how and why it malfunctioned, and the corrective maintenance action taken.
+[M] The Contractor must conduct a trend analysis, starting at the date of contract award, of the number of Corrective Maintenance Actions for each component of each HCCS EG system.
+[M] The Contractor must provide Canada with the results of the trend analysis of the number of Corrective Maintenance Actions highlighting the components of each HCCS EG system that are at risk.
+[M] To support the performance indicators, the Contractor must compile a list of HCCS EG components being returned for repair.
+[M] To support the performance indicators, the Contractor must conduct and provide to Canada an annual trend analysis, starting at the date of contract award, of returned HCCS EG components that needed to be repaired.
+[M] To support the performance indicators, the Contractor must conduct and provide to Canada an annual trend analysis, starting at the date of contract award, of returned HCCS EG components where no failures were found.
+[M] To support the performance indicators, the Contractor must maintain records associated with the management of FSR deployment, including date/time of call-out receipt by the Contractor and date/time of FSR arrival on location.
+[M] To support the performance indicators, the Contractor must use Earned Value Management (EVM) to compute the Cost Performance Index and Schedule Performance Index to determine the cost and schedule performance of the AOP on a monthly basis.
+[M] To support the performance indicators, the Contractor must provide the results of the AOP EVM analysis to Canada on a monthly basis.
+[M] To support the performance indicators, the Contractor must quantify the benefits of all proposed and implemented changes from continuous improvements and value engineering.
+[M] To support the performance indicators, the Contractor must conduct and provide to Canada an annual trend analysis, starting at the date of contract award, of the sum of quantified benefits of all proposed and implemented changes from continuous improvements and value engineering.
+[M] To support the performance indicators, the Contractor must list the non-compliant configuration issues in the reporting period identifying the quantity and description of the non-compliant configuration issues.
+[M] To support the performance indicators, the Contractor must conduct and provide to Canada an annual trend analysis, starting at the date of contract award, of non-compliant configuration issues.
+[M] To support the performance indicators, the Contractor must, on an annual basis, review the Contractor Held Inventory report which identifies the quantity of items that have are unaccounted for.
+[M] To support the performance indicators, using the Contractor Held Inventory report, the Contractor must count the number of items that are unaccounted for and calculate the % of items that are unaccounted for against the total number of items held and in transit.
+[M] To support the performance indicators, using the Contractor Held Inventory report, the Contractor must calculate the value of the items that are unaccounted for and calculate the % of the value of the items that are unaccounted for against the total value of items held and in transit.
+[M] To support the performance indicators, the Contractor must record a description of the cause, effect, non-compliance penalty, and rectification of the violation for each NMA violation that occurs.
+[M] To support the performance indicators, and according to the Contract terms, the Contractor must submit an Industrial and Technological Benefits (ITB) annual report describing ITB claims, new transactions, and updates to ITB plans and associated ITB program progress. The ITB authority verifies the ITB claims and provides notice of credit achieved to the Contractor.
+[M] The Contractor must write a SPM report annually that presents the overall past performance of the Contractor in the previous years as well as his planned initiatives with respect to the strategic class functional objectives. The report should also describe the specific strategies and methodologies the Contractor employed to achieve alignment to the strategic class functional objectives and to achieve the results reported by the KPIs and SHIs. The report should also describe planned innovations and initiatives that the Contractor will implement to improve the alignment to the strategic class functional objectives and to improve the KPI and SHI performance.
+
+8.1.2	Performance Outcome Verification
+[M] The Contractor must report and present the resultant SPMs, KPIs, SHIs to Canada for validation.
+[M] The Contractor must compute the Composite Performance Payment in accordance with the PRS.
+[M] Quarterly, the Contractor must calculate and report the SHIs, using the previous three months’ data.
+[M] Quarterly, the Contractor must calculate and report the SHIs, using the cumulative data for the current calendar year.
+[M] Quarterly, the Contractor must calculate and report the KPIs, using the previous three months’ data.
+[M] Annually, at calendar year end, the Contractor must report the KPIs, using the cumulative data for the current calendar year.
+[M] Annually, at calendar year end, the Contractor must report the SPMs, using the previous 36 months’ data.
+
+8.1.3	Performance Indicator Data
+[M]	The Contractor must:
+a.	retain copies of all data and information used in determining the SPM, KPI, SHI scores, including a clear record of the relevant date(s) and time(s) for each item of data and information;
+b.	retain the data used for the calculation of the SPMs, KPIs, SHIs in accordance with the terms of the contract.
+c.	if requested by Canada, provide Canada with a copy of all or part of the data.
