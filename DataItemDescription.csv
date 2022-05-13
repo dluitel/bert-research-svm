@@ -1,0 +1,288 @@
+1. SCOPE
+1.1	Scope. This standard establishes uniform procedures for the preparation of Data Item Descriptions (DIDs).
+1.2	Applicability.  The provisions of this standard apply to all DoD components and contractors who are responsible for the preparation of new and revised DIDs intended for use in defense contracts.
+1.3	Classification.  This standard covers the following types of DIDs:
+ 	DIDs approved for repetitive acquisition use.
+One-Time DIDs - DIDs approved for one-time acquisition use which is associated with a unique data requirement applicable to a single contract, or to multiple contracts associated with a single acquisition program. 
+
+
+
+
+2.  REFERENCED DOCUMENTS
+2.1	Government documents:  The following Government documents, drawings, and publications form a part of this standard to the extent specified herein.
+GOVERNMENT PRINTING OFFICE (GPO)
+Government Printing Office Style Manual
+(Application for copies should be addressed to the Superintendent of Documents, Government Printing Office, Washington, DC  20402).
+PUBLICATIONS
+DEPARTMENT OF DEFENSE
+DODISS	- Department of Defense Index of
+   Specification and Standards
+DoD 5010.12-L	- DoD Acquisition Management Systems
+   and Data Requirements Control Lists
+   (AMSDL)
+DoDI 5000.21	- Forms Management Program
+DoD 5200.1-R	- Information Security Program
+  Regulation
+SD-1	- Standardization Directory
+(Copies of specifications, standards, handbooks, and publications required by contractors in connection with specific acquisition functions should be obtained from the contracting activity or as directed by the contracting officer.)
+2.2	Order of precedence.  In the event of a conflict between the text of this standard and the references cited herein, the text of this standard shall take precedence.
+
+
+
+
+3.  DEFINITIONS
+Acquisition.  The acquiring by contract, with appropriated funds, of supplies or services by and for the use of the Government that are already in existence or must be created, developed, demonstrated, and evaluated.
+Acquisition Management Systems and Data Requirements Control List (AMSDL).  A listing of Source Documents and Data Item Descriptions (DIDs) which have been approved for repetitive contractual application in DoD acquisitions and those that have been canceled or superseded.  The AMSDL is identified as DoD 5010.12-L.
+Acquisition Management Systems Control (AMSC) Number.  A control number assigned by the Director, DUSD(L)CALS to DIDs and Military Specifications and Standards that cite DIDs.
+Content.  The desired subject(s), topic(s), or element (s) which constitutes the data product described in the DID (for example, a string of defined data elements for entry into a Government database, a listing of paragraph titles or topics for inclusion in a data deliverable) under general topics or subject matter which may be further defined into sub-topics.
+Contract.  A mutually binding legal relationship obligating the seller to furnish the supplies or services and the buyer to pay for them.  It includes all types of commitments that obligate the Government to an expenditure of appropriated funds and that, except as otherwise authorized, are in writing.  In addition to bilateral instruments, contracts include (but are not limited to) awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications.
+Contract Data Requirements List (CDRL), DD Form 1423.  The standard format for identifying potential data requirements in a solicitation, and deliverable data items in a contract.
+Contractor.  An individual or organization outside the Government which has accepted any type of agreement or order for providing research, supplies, or services to a Government Agency.
+Contractual data requirement.  A data requirement which applies by virtue of the terms of a contract.
+Data.  Recorded information, regardless of form or characteristics.
+Data Functional Area.  An area which has a defined scope based on the functional use of the data. The Data Functional Area designations and scopes are defined in the AMSDL.
+Data Item Description (DID).  A completed document that defines the data required of a contractor.  The document specifically defines the data content, format, and intended use (see Figures 1, 2 and 3).
+Data product.  Information which is inherently generated as the result of work tasks cited in a Statement of Work (SOW) or in a Source Document invoked in the contract.  Such information is treated as a separate entity (for example, drawing, specification, manual, report, records, or parts list).
+Defense Technical Information Center (DTIC).  DTIC is a major component of the DoD Scientific and Technical Information Program (STIP).  DTIC contributes to the management and conduct of Defense research, development, and acquisition efforts by providing access to and transfer of scientific and technical information for DoD personnel, DoD contractors and potential contractors, and other Government agency personnel and their contractors.
+Delivery.  Physical delivery of data to the Controlling DoD Office in any media, or official notification of access to the data via contractor information services, in satisfaction of a data requirement.
+DoD Scientific and Technical Information Program (STIP).  The DoD STIP is the umbrella under which all scientific and technical information programs within DoD Components operate.  The overall objective of the STIP is to increase the effectiveness of the scientific and technical effort in the DoD community.
+Director, DUSD(L)CALS.  (For purposes of this standard)  The individual representing the Secretary of Defense who has been assigned the DoD-wide responsibility for developing and implementing DoD policy for controlling and approving data requirements applied in defense contracts.  Approval authority for DIDs may be delegated at the discretion of the Director.
+DoD component.  The Office of the Secretary of Defense, a military department, or a defense agency.
+DoD Index of Specifications and Standards (DODISS).  The publication that lists federal and military specifications, standards and related standardization documents and non-Government documents that are used by the military departments and agencies.
+Form.  Any document printed or otherwise reproduced with space for filling in information.
+Format.  The desired organization, structure, or arrangement of the content of the data product described by the DID.  This term relates to the shape, size, makeup, style, physical organization, or arrangement of the data product described in the DID.
+Government/Industry Data Exchange Program (GIDEP).  A cooperative data interchange among Government and industry participants seeking to reduce or eliminate expenditures of time and money by making maximum use of existing knowledge.  GIDEP provides a means to exchange certain types of data essential during the life cycle of systems and equipment.
+Office of Primary Responsibility (OPR).  The DoD component activity having the responsibility for the preparation and coordination of DIDs and other standardization documents.  An OPR may also be a Preparing Activity.
+Preparing Activity (PA).  The DoD activity or the civilian Agency responsible for preparation, coordination, issuance, and maintenance of standardization documents.
+Source document.  A document listed in the AMSDL and DODISS that is applied in a solicitation or contract and establishes a data requirement which requires a DID to define the format, content, and intended use of the data.
+Tailoring of data requirements. The deletion of the applicability of a portion of the data requirements from an approved DID that are unnecessary to meet the needs of a specific contract. The tailoring is specified in Block 16 of the CDRL (DD Form 1423).
+Technical data.  Recorded information, regardless of form or characteristics, of a scientific or technical nature.  It may, for example, document research, experimental, developmental or engineering work; or be useable or used to define a design or process or to acquire, support, maintain or operate materiel. Technical data does not include computer software or financial, administrative, cost and pricing, and management data, or other information incidental to contract administration. 
+
+
+
+
+4.	GENERAL REQUIREMENTS
+4.1	Preparation of DIDs:  DIDs (see Figure 1) need to identify the content and format requirements for data to be prepared for use by the Government under the terms of a contract only when there is not an existing DID listed in the AMSDL that is adequate, as is or with tailoring, to define the required data product.  A DID shall cover a single deliverable data product.  If a single work task generates more than one deliverable data product, a separate DID shall be selected or prepared for each.
+4.2	DID structure:  Two methods are authorized as follows:
+4.2.1	Self-contained:  A self-contained DID is a complete description of the data content, format, and intended use without reference to other documents.  A self-contained DID is preferred because it reduces the number of referenced documents.
+4.2.2	Abstract-reference: An abstract-reference DID describes the data by referencing other documents which contain additional content, format and intended use information.  This is necessary when the volume of content, format, and intended use information makes inclusion in the DID impractical.  (See 4.9.1)
+4.3	DID content and format:  Each DID needs to delineate the data content and format requirements applicable to a single data product.
+4.3.1	Work tasks:  Requirements to perform work tasks (for example, inspection or test), or otherwise direct or constrain the data preparation activity are not contained in the DID. The contract shall identify the work tasks associated with the generation of data. The DID shall not contain any instructions or provisions to modify or alter any task provisions.
+4.3.2	Classified material:  DIDs need to avoid unnecessary restrictions in their dissemination.  In the unlikely event that a DID must contain classified material, the DID shall be appropriately marked and handled in accordance with DoD 5200.1-R.  The title of the DID shall not be classified.  A classified DID shall be a one-time DID.
+4.3.3	Packaging instructions:  DIDs is not supposed to contain packaging instructions for the delivery of data.
+4.3.4	Tailoring:  DIDs are structured to facilitate the tailoring (deletion) of requirements not applicable to a specific acquisition.  A number or letter shall identify each paragraph containing format and content instructions to permit tailoring by reference. This is normally done by referencing appropriate paragraph identifiers in Block 16 of the CDRL for deletion or application.
+4.4	Language style:  The format, content, and intended use information of a DID is presented in language which is simple and direct.  Sentence structure shall be short.  The rules of grammar and punctuation shall be followed. The use of standard technical and military terms shall be limited to those essential for the preparation of the data product.
+4.4.1	Abbreviations and acronyms: The use of abbreviations and acronyms in a DID is limited to those that are commonly required, specifically known, and accepted.  If a DID references a document, acronyms in the DID shall be the same as those in the reference document. The first time an abbreviation or acronym is used in the text of a DID, it shall be in parentheses and be preceded by a full spelling.  Abbreviations and acronyms used in tables or figures shall be explained by appropriate footnotes when not identified in the DID text.  Acronyms shall not be used if a term is used only once in a DID.
+4.4.2	Style Guide:  The United States Government Printing Office Style Manual is supposed to be used as a guide.
+4.4.3	Signs and symbols:  Any signs or symbols used in the DID need to be explained.
+4.4.4	Use of  “shall,” “will,” “should,” and “may”:  “shall” is used when an instruction is mandatory. The use of “will” indicates the Government will do something.  The use of “should” and “may” should be avoided since DIDs normally contain only mandatory instructions.
+4.4.5	Prohibited terms:  The following words and phrases are not supposed to be used in DIDs:
+(a)	“Unless otherwise specified in the contract.”  This term shall indicate an alternative condition to that specified in the approved DID.  The only alternative to using the DID is the tailoring out of requirements in block 16 of the DD Form 1423, since all DIDs reflect maximum allowable requirements.
+(b)	The following phrases task the contractor to perform work; work tasks should be in the SOW or contract, not in the DID.
+(1)	"The contractor shall  .  .  ."
+(2)	“ .  .  .  records shall be maintained .  .  .”
+(3)	“.  .  .  data shall be prepared .  .  .”
+(4)	“.  .  .  data shall be submitted .  .  ."
+(5)	“.  .  .  data shall be reviewed .  .  .”
+(6)	“.  .  .  data shall be approved by .  .  .”
+(c)	The following phrases shall imply that it is possible to add additional requirements by tailoring the DID in the CDRL. Requirements may be tailored out, but additional requirements shall not be added by tailoring.
+(1)	“.  .  .  shall include but not be limited to .  .  .”
+(2)	“.  .  .  shall include as a minimum .  .  .”
+(d)	It is not recommended to use the term "and/or".
+4.5	Tables and figures:  Tables and figures are used when it improves the clarity of the format, content, and intended use information.  Tables and figures shall be referenced by applicable paragraphs and shall be placed as close to the reference as possible.
+4.6	Forms:  Reference to forms in a DID needs to be limited to those cases where a form is required to be completed by a contractor in compliance with a specific task.  Forms that are used as part of the DID requirement to obtain data require prior approval of the appropriate Forms Control Officer, in accordance with the Forms Control and Management requirements specified in DoD Instruction 5000.21, Forms Management Program, and need to display the office of Management and Budget (OMB) Control number 0704-0188.
+4.7	External documentation:  No external documentation (e.g., attachment, amendments, enclosures, exhibits is physically included as part of a DID.
+4.8	References.
+4.8.1  Document references:  References to a document within the DID need to be governed by the following provisions.
+(a)	Referenced documents should be limited to those essential to the preparation or clarification of the data product.
+(b)	References to DODISS documents which contain requirements for preparation of a data product shall be identified.
+(c)	When the entire contents of a referenced document are not applicable to the data product, the specific applicable paragraph, section, chapter, etc., shall be identified.
+(d)	When a non-DODISS document is referenced, identify where copies of the referenced document are available.  Complete address, point of contact, and any conditions on availability shall be identified.
+4.8.2  DID references:  a DID need to be governed by the following provisions.
+(a)	DID numbers may be referenced under “Use/relationship” to identify any other DIDs which should, or should not, be used in conjunction with the DID.
+(b)	DIDs being canceled or superseded by the DID shall be identified under “Use/relationship”.
+(c)	Other DIDs containing information on the data format or content shall be referenced under "Requirements" for guidance only.
+(d)	One-time DID numbers (OT prefix) shall not be referenced.
+4.8.3  Cross reference:  Within any data field of the DID, references to other paragraphs within that same field may be made for the purpose of clarifying or tailoring format, content, and intended use information.  Such reference shall state the specific paragraph (for example, “see 2.4 above” or “see 4.7 below”).  The word “paragraph” shall not be used.
+4.9	Definitions in a DID:  When the meaning of a word or term is necessary for clarification, a definition shall be included immediately following the word or term.  Such definitions should be kept to an absolute minimum.
+4.10	Continuation pages:  The DID number shall be centered at the top of each continuation page.  Pages shall be numbered sequentially at the bottom of each page.  The last paragraph under “Requirements” shall state:  “End of (DID number).”  (See Figure 2) 
+5.  DETAILED REQUIREMENTS
+5.1	Preparation of DIDs:   The first page of each DID shall identify the document type “Data Item Description” at the top of the page (Figure 1).
+5.2	Proposed DIDs.
+5.2.1	Drafts:  Drafts of proposed DIDs shall carry the word “Draft” in the “Approval Date” data field.
+5.2.2	Criteria:  Principal criteria for approval of draft DIDs are that they:  (1) not substantially overlap/duplicate existing approved DIDs, (2)not represent “excessive oversight” of a contractor’s internal business practices, and (3) are compliant with the requirements of this standard.  The approval date should replace the word “Draft” upon approval as specified below in the digital “original” of the DID.
+5.3  Contents:  The following information needs to be provided in the sequence presented herein.
+5.3.1	Title:  The Title entry shall provide a meaningful name for the data product using keywords which specifically identify its nature.  Abbreviations and acronyms shall be limited to those used parenthetically to suffix the spelled-out terminology.  The title is constructed using the direct reading method and shall employ modifiers necessary for distinctive identification, for example:
+“Packaging Design Report”
+“Radar Performance Test Data”
+5.3.2	Number:  Leave blank on new DIDs.  The Identification Number will be assigned by the Director, DUSD(L)CALS, or other delegated DID approval authority (see 6.5).  Identification Numbers for DIDs to be approved for use for repetitive acquisition will be obtained by the DID approval authority from the Defense Automated Printing Service, Bldg. 4D (DPM-DODSSP), 700 Robbins Avenue, Philadelphia, PA  19111-5094, Phone:  215-697-5164, email:
+rick_rodemer@ddas.mil.  Identification Numbers for One-Time DIDs will be assigned by the Service or Agency Data Management Focal Point for One-Time DIDs.  If  the DID is a revision, see the example and explanation below:
+(a)	DIDs intended for use for repetitive acquisition:
+DI-CMAN-80013B
+DI - Data Item
+CMAN - Four character data functional area assignment (see AMSDL for area       assignment designations and definitions)
+80013 - Number assigned as described above
+B - Sequential alpha revision level (I, O, Q, S, X and Z not used)
+(b)	One-Time DIDs
+OT-1997-12068
+OT - One-Time
+1997 - Current fiscal year
+12068 - One-Time DIDs will be assigned a number from the proponent Service or Agency’s block of assigned numbers
+5.3.3  Approval date:  The Director, DUSD(L)CALS, or other delegated DID approval authority (see 6.5), will assign the approval date for DIDs to be approved for use for repetitive acquisition.
+This date will be the date the Identification Number and the AMSC Number are received from the Defense Automated Printing Service (see 5.3.2 and 5.3.4).  The approval date for One-Time DIDs will be assigned by the Service or Agency Data Management Focal Point for One-Time DIDs.  For example:
+19880701
+1988 - Year
+07 - Month 01 - Day
+5.3.4	AMSC Number: The AMSC Number needs to be assigned by the Director, DUSD(L)CALS, or other delegated DID approval authority (see 6.5).  AMSC Numbers for DIDs shall be obtained by the DID approval authority from the Defense Automated Printing Service to be approved for use for repetitive acquisition (see 5.3.2). An AMSC number will not be assigned to One-Time DIDs.
+5.3.5	Limitation:  The Director, DUSD(L)CALS, or other delegated authority,  will specify any approval limitations on DIDs to be approved for use for repetitive acquisition.  For One-Time DIDs, provide the solicitation or contract number.
+5.3.6	DTIC applicable:  If a Government organization or a contractor is required to submit copies of the data to DTIC, provide a “Yes” and include the DTIC address.  DTIC Regional Offices are listed on the Internet at http://www.dtic.dla.mil/dtic/dticb/dticbln/regionalofcs.html.
+5.3.7	GIDEP applicable:  When copies of the data are required to be submitted by a Government organization or the contractor to GIDEP enter a “Yes” and include the GIDEP address:  GIDEP
+Operations Center, Naval Warfare Assessment Center, PO Box 8000, Corona, CA  91718-8000.
+5.3.8	Office of Primary Responsibility (OPR):  The OPR having responsibility for preparing the DID is supposed to be identified as follows:
+(a)	If the originator of the DID is the Preparing Activity (PA) of a DODISS specification or standard citing the DID, the PA Code as identified in the SD-1, Standardization Directory, shall be provided.
+(b)	If the originator of the DID is not the PA, or the DID does not cite a DODISS specification or standard, the Component and Organizational Code is provided in accordance with the following:
+    Component	Sample of
+Component	    	        Code	    Organizational Codes
+U.S. Army	A	                       AMCRDA-TE
+U.S. Navy	             	N	AIR-1.3.3A
+U.S. Air Force	              	F	AFMC-ENS
+U.S. Marine Corps	                       	M	            PSE-D
+Defense Logistics Agency	             	S	MMLXC
+National Security Agency	             	G	J721
+Defense Information Systems Agency   	K	(Not required)
+Defense Intelligence Agency	    	L	(Not required)
+National Imagery and Mapping Agency	B	(Not required)
+Defense Special Weapons Agency	H	(Not required)
+Office of the Secretary of Defense         	D	DUSD(L)CALS
+5.3.9	Applicable forms:  Identify, by number, all forms required to be completed by the contractor in the preparation of the data product.  All forms must include the OMB control number 0704-0188 and an Agency Disclosure Notice (ADN) with a burden estimate of the time required for reviewing sources, gathering and maintaining data, and compiling and reviewing the information placed on the form.
+5.3.10	Use/relationship:  Include a description of the purpose of the data and how it is to be used. For DIDs having a DODISS-listed source document, include a statement that the DID contains the format, content, and intended use information for the data deliverable resulting from the work task described in paragraph (number) of (document identifier; e.g., MIL-PRF-12345).  For DIDs not having a source document, include a statement that the DID contains the format, content, and intended use information for the data deliverable resulting from the work task described in the solicitation.  Include references to any DODISS specifications' or standards' paragraphs cited by the DID which contain further instructions on the purpose or use of the data.  Also list any DIDs being superseded or canceled by the DID or other DIDs that are recommended for use, or nonuse, when the DID is used.  For One-Time DIDs, include a statement that the DID is for use only on the single solicitation or acquisition program; and enter the solicitation or contract number, or acquisition program identifier respectively.
+5.3.11	Requirements:  Data format and content requirements shall be clearly stated.  Whenever possible, allow contractor format.  Mandatory formats are only required when a specific format is required to meet interface requirements (e.g., data will be put into a database system). If non DODISS documents are referenced, include the applicable issue of the documents, including their approval dates and dates of any applicable amendments, notices, and revisions. Also include addresses where the documents can be obtained.  If no single distribution point is available include a statement that the documents will be available in a bidder’s library or some other means.
+(a)  DIDs which identify reference documents shall have the following first paragraph under “Requirements”:
+1.  Reference documents:  The applicable issue of the documents cited herein, including their approval dates and dates of any applicable amendments, notices, and revisions, shall be as cited in the current issue of the DODISS at the time of the solicitation; or, for non DODISS-listed documents, as stated herein.
+(b)  When necessary to optimize data format, content, and intended use information, phrases necessary to identify the specific requirements of a DoD Component, Agency, or organizational element (e.g., “For AFMC Only”) may be utilized. 
+6. NOTES
+(This section contains information of a general or explanatory nature that might be helpful, but is not mandatory.)
+6.1	Intended use.  DIDs conforming to the requirements of this standard are intended for use as military standardization documents and are listed in the AMSDL.
+6.2	Associated Data Item Descriptions (DIDs).  This standard is cited in DoD 5010.12-L, Acquisition Management Systems and Data Requirements Control List (AMSDL), as the source document for the following DID.  When it is necessary to obtain the data, the DID must be listed on the Contract Data Requirements List (DD Form 1423), except where the DoD Federal Acquisition Regulation Supplement exempts the requirement for a DD Form 1423..
+	DID Number	DID Title
+	DI-MISC-80000B   	Data Item Descriptions (DIDs)
+6.3	DID guidance for contractual application. For those solicitations under which preparation of DIDs is to be performed by contractors, the solicitation documentation should specify the following:
+(a)	The Type of DID(s) to be prepared (Repetitive use or One-Time).
+(b)	The OPR of the DID(s).
+(c)	The DTIC/GIDEP application of the DID(s).
+6.4	Changes from previous issue: Marginal notations are not used in this revision to identify changes with respect to the previous issue due to the extent of the changes.
+6.5	DID delegated approval authorities.
+Navy:	Commander
+Naval Inventory Control Point - Philadelphia
+          	Code-0713.12, 700 Robbins Avenue
+           	Philadelphia, PA  19111-5098
+	Phone:  215-697-3231	DSN:   442-3231
+Army:	Headquarters, U.S. Army Materiel Command
+Office of the Deputy Chief of Staff for Research, Development and Acquisition
+ATTN:  AMCRDA-TE
+           	5001 Eisenhower Avenue
+Alexandria, VA  22333-0001
+	Phone:  703-617-5136	DSN:  767-5136
+Air Force:  	Headquarters, AF Materiel Command
+             	AFMC/ENPD
+             	4027 Col. Glenn Highway, Suite 300
+             Beavercreek, OH  45431-5001   Phone:   513-257-3085 DSN:   787-3085
+Marine Corps: Commander
+Marine Corps Systems Command
+Program Support Directorate, Code:  PSE-D
+2033 Barnett Avenue, Suite 315
+Quantico, VA  22134-5010
+	Phone:  703-784-4583	DSN:   278-4583
+DISA:	Director, Defense Information Systems Agency
+CIO/IRM Division
+3701 Fairfax Drive, Rm 426N
+Arlington, VA  22203-1713
+	Phone:  703-696-1891	DSN:   426-1891
+DLA:	Defense Logistics Agency
+ATTN:  MMLXC
+Suite 2533
+8725 John J. Kingman Road
+Ft. Belvoir, VA  27060-6221
+	Phone:  703-767-2625	DSN:   427-2625
+NIMA: National Imagery and Mapping Agency ATTN:  RPS
+4600 Sangamore Road, Mail Stop D-83
+Bethesda, MD  20816-5003
+	Phone: 301-227-3249	DSN:   287-3249
+NSA:	Director
+National Security Agency/Central Security Service
+ATTN:  J721
+9800 Savage Road, Suite 6456
+Ft. George G. Meade, MD  20755-6456
+All other activities:
+Director, DUSD(L)CALS
+5203 Leesburg Pike, Suite 1609
+Falls Church, VA  22041
+	Phone:  703-681-8475	DSN:   761-8475
+6.5.1	Initial Data Items Record.  For each DID approved for use for repetitive acquisition, the DID approval authority will complete the Initial Data Items Record, DPSDO-PHILA 4120/2 (available from the Defense Automated Printing Service – see 5.3.2).  In addition to the information requested on this form, the following information is to be included, as applicable, in the “Remarks” block:  DID approval date, OPR, Source Document, AMSC Number, and supersession information (list all DIDs being superseded by this new or revised DID).
+6.5.2	Submittal to Defense Automated Printing Service.  Within 30 days of receipt of the
+Identification and AMSC Numbers, DID approval authorities are to submit the approved DID
+(one hard copy and a PDF File), along with the completed Initial Data Items Record, to the Defense Automated Printing Service.  (see 5.3.2)
+ 
+DATA ITEM DESCRIPTION
+Title:
+	Number:	Approval Date:
+	AMSC Number:	Limitation:
+	DTIC Applicable:	GIDEP Applicable:
+Office of Primary Responsibility:
+Applicable Forms: Use/relationship:
+Requirements:
+Figure 1.  Sample DID Data Fields
+DATA ITEM DESCRIPTION
+Title:  TECHNICAL MANUAL RESEARCH AND ANALYSIS SOURCE DATA
+Number:  DI-TMSS-8XXX4	Approval Date:  19930720
+AMSC Number:  N6946	Limitation:
+DTIC Applicable: Yes
+DTIC Northwestern Regional Office at
+Boston, ATTN:  DTIC_BRNB
+Building1103, 5 Wright Street
+Hanscom AFB, MA  01731-3012	GIDEP Applicable:  Yes
+GIDEP Operations Center
+Naval Warfare Assessment Center
+PO Box 8000
+Corona, CA  91718-8000
+Office of Primary Responsibility:  SH Applicable Forms:
+Use/relationship:  The Technical Manual Research and Analysis Source Data will be used to obtain essential information from contractors for accomplishing required technical manual changes by Government publications personnel or through contractor technical writing concerns.
+a.	Information to be acquired through these data will include engineering change records,hardware modification records, engineering judgement records (EJRs), service experience records, and other related data.
+b.	This DID contains the format, content, and intended use information for the data productresulting from the work task described by 3.2.3.1 of MIL-PRF-XXXXXA, and is applicable to the acquisition of military systems, equipment, and facilities.
+Requirements:
+(a)	Reference documents:  The applicable issue of the documents cited herein, including their approval dates and dates of any applicable amendments, notices, and revisions, shall be as cited in the current issue of the DODISS at the time of the solicitation.
+(b)	Format:  The Research and Analysis Source Data should be in contractor’s format.
+(c)	Content:  The Research and Analysis Source Data should be presented in the style of the technical manual for which the changes are recommended specified in the contract.  Pages shall be typewritten and double-spaced.  Illustration changes shall be presented in textual descriptive form, marked-up illustrations, or by free-hand sketches that illustrate the required changes.
+c.1	Introduction Section:  This section contains a brief description of the changes, reason for changes, and a recapitulation of the requirements; also a listing of the technical manuals affected and any relevant information pertaining to related changes.
+1
+Figure 2.  Sample DID approved for use for repetitive acquisition
+DI-TMSS-8XXX4
+c.2	Required Change Section: This section contains a separate section for each technical manual for which changes are required.   
+The sections should be titled as follows: “Changes Required in Technical Manual Number _____, 
+Book Dated _____, 
+Changes Dated _____.”
+a.	Each page of each section shall be identified with the applicable technical manual number,  An introductory statement in each section shall identify any modifications for technical manuals that are incorporated in accordance with MIL-DTL-2XXX4.
+b.	The source data contains essential information that enables publications personnel to accomplish all required technical manual changes.  When an illustration which is used in more than one technical manual has been changed, the change is referenced in the other applicable Required Change Sections.
+3.3	Research and Analysis:  Engineering change records, modification records, service experience records, and all change information not yet incorporated in the technical manual(s) shall be included from past publication records.
+3.4	Text Changes:  Each recommended technical manual text change needs to be identified by the paragraph number listed in the outstanding issue of the technical manual to be changed.  The new paragraphs shall be identified by new paragraphs numbers to be added in accordance with MIL-DTL-2XXX4.
+3.5	Illustration Changes:  Illustration changes needs to be identified by figure numbers in the outstanding issue of the technical manual to be changed.  The new illustrations shall be identified by the new figure numbers to be added in accordance with MIL-DTL-2XXX4.  When changes of illustration consist of only nomenclature changes, these changes may be identified by a textual description of the change(s) to be made.
+3.6	Change Listings:  Change listings shall include only part numbers to be added, part numbers to be changed, and part numbers to be deleted, as applicable.
+4. End of DI-TMSS-8XXX4
+2
+Figure 2.  Sample DID approved for use for repetitive acquisition
+DATA ITEM DESCRIPTION
+Title:  GENERIC CODING SCHEME REPORT
+Number:  OT-5XXXX Approval Date:  19880701 AMSC Number: Limitation:   DLA600-95-C-XXXX DTIC Applicable: GIDEP Applicable:
+Office of Primary Responsibility:  DO Applicable Forms:
+Use/relationship:  The report on generic coding scheme for MIL-STD-961 describes the tagging structure (generic tags), the hierarchy or relationship of the tags, basic generic processing instructions, and error checking procedure which will be used for an in-process review of the coding scheme being developed to ensure that the scheme will meet the requirements of the contract.
+This DID contains the format, content, and intended use information for the data product resulting from the work task described in the contract SOW.  This DID is for one-time use for solicitation DLA600-95-C-XXXX.
+Requirements:
+(a)	Reference documents:  The applicable issue of the documents cited herein, including their approval dates and dates of any applicable amendments, notices, and revisions, shall be as cited in the current issue of the DODISS at the time of the solicitation.
+(b)	Format:  The plan shall be in contractor’s format.
+(c)	Content:  The report shall contain the following:
+c.1.	Names of elements developed from analysis of MIL-STD-961 and conforming documents.
+c.2.	Tag names.
+c.3.	Relationship or place in document hierarchy of tag; example could be the (DOCTYPE) element name and it is the highest element on the document tree.
+c.4.	Basic generic processing instructions: for example, the text associated with the (DOCTITLE) element is used to generate the running head on all left hand pages throughout the document.
+c.5.	Error checking procedures; for example, the (SCOPE) element is required in all specification documents and if it is not found an error is generated.
+(d)	End of OT-5XXXX
