@@ -287,8 +287,6 @@ REQ-6:  All data related to the word must be shown. For example if user types â€
 
 3.6 Add Group/Subgroup
 This feature is used to keep data organized in categories for easier access.
-
-
 3.6.1 Description
 There is the ability to organize data into groups and subgroups. The user can create a new group or subgroups into an existing group. When creating a group/subgroup the user must select a name and then he can add entries into it. 
  3.6.2. Stimulus/Response Sequences  
@@ -478,10 +476,9 @@ The user can delete an existing entry by selecting it and then by clicking delet
    4a. No entry is deleted
 3.13.3 Functional Requirements
 REQ-17:  An entry must be selected to be deleted  
+
 3.14 Change Language
 This feature allows user to choose one of the language translations that are available in KeePass
-
-
 3.14.1 Description 
 The user can select between a number of translations that are available at KeePass website. There are available translations in Arabic, Brazilian, Bulgarian, Catalan, Chinese (Simplified and Traditional), Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Lithuanian, Macedonian, Malay, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Turkish and Ukrainian.  All the user has to do is to select change language from the view menu and then the language he wants. If he already has download languages packets he can choose one of them. If he wants another language pack he can select get more language. Doing this he will be transferred at KeePass website and choose the language he wants for downloading. 
  3.14.2. Stimulus/Response Sequences  
