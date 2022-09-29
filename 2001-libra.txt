@@ -2,6 +2,7 @@
 1.1
 Purpose
 This SRS describes the requirements and specifications of Libra, an Economy-Driven Cluster Scheduler. It explains the functional features of the scheduler, along with interface details, design constraints and related considerations such as performance characteristics. The SRS is intended for users and owners of high-performance clusters, cluster management software, job schedulers and grid resources. 
+
 1.2
 Scope
 The Libra Scheduler is intended to work as an add-on to the queuing, scheduling and resource managing module of the open source Sun Grid Engine cluster management system, previously known as Codine. The scheduler will offer market-based economy driven service for managing batch jobs on clusters by scheduling CPU time according to user utility rather than system performance considerations. Hence, the main objective of Libra is to provide Quality of Service (QoS) computational economy in cluster computing. 
@@ -301,18 +302,18 @@ In case of system outage, the cluster will be down while the Linux operating sys
 Security Considerations
 The Libra scheduler will ensure the privacy of user job status and ensure full control over job execution, so that alteration of scheduling criteria or actual resource allocation is not possible without administrator authority.
 
-3.
+3.3
 Performance Requirements
-3.3.
+3.3.1
 Response time
 The maximum response time for the submission of a job will be 1 minute.
-3.3.
+3.3.2
 Capacity
 The maximum number of jobs schedulable is limited only by the capacity of the nodes to fulfill the jobs’ deadlines; there is no upper limit inherent in the Libra scheduler as such.
-3.3.
+3.3.3
 Deadline sensitivity
 Assuming submitted statistics for jobs are accurate, the Libra scheduler will ensure that all jobs are completed with a 10% error allowance.
-3.3.
+3.3.4
 Cost sensitivity
 Under all circumstances, the maximum cost payable as submitted by the user will be the maximum cost charged to the user.
 
@@ -391,7 +392,7 @@ Libra will be released under a GPL license and will be open-source.
 Legal, Copyright and Other Notices
 Sun Grid Engine (SGE) is a copyright trademark of Sun Microsystems, Inc. Libra Scheduler is a copyright trademark of Mr. Rajkumar Buyya, Monash University. MPI is a copyright of the University of Chicago and Mississippi State University. PVM is a copyright of the University of Tennessee, Oak Ridge National Laboratory, and Emory University.
 
-4.	
+4.1	
 Supporting Information
 4.1.1
 Appendix A – Background Research (dated 10th Nov, 2001) on:
