@@ -1,6 +1,6 @@
-  Introduction
-  The Need for an NLM Digital Repository
+Introduction
 
+The Need for an NLM Digital Repository
 The mission of the National Library of Medicine is to acquire, organize, preserve and make accessible the published record of the biomedical sciences and health professions, irrespective of format.  In order to fulfill this mandate, it is essential that the Library develop the robust infrastructure needed to manage and preserve a large amount of material in a variety of digital formats.
 
 A number of program areas within Library Operations are in need of such a digital repository to support their existing digital collections and to expand the ability to collect a growing amount of born-digital resources.  Dozens of digital collections which require long-term management and preservation have already been created by the History of Medicine Division.  Collection development and acquisitions staffs are seeing an increasing availability of born-digital materials, including licensed e-journals and web sites that NLM needs to add to its collection.  NLM’s preservation program has embraced digitization as a preservation method to replace microfilming.  The creation of functional requirements and identification of key policy issues for an NLM Digital Repository are essential next steps to aid in building NLM’s collection in the digital environment.
@@ -62,7 +62,6 @@ The following chart of Operational Scenarios and User Classes (Figure 1) illustr
  Project Constraints
 
   Design Constraints
-
   Existing digital repositories for selected portions of the NLM Collection (e.g., PMC, Bookshelf, NIH Videocasts.
   Lack of standards for file types (e.g., e-books)
   Materials found in NLM's special collections may require special consideration concerning the type of formats and data files that must be stored within the repository.  Important donations of historical materials may include obsolete or unusual formats.
