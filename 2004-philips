@@ -126,7 +126,6 @@ D4.1 Play games with online buddies.
 
 
 
-
 4	EXTERNAL INTERFACE REQUIREMENTS
 4.1	PHYSICAL DEVICES
 Input device: Remote control and maybe a wireless keyboard.
@@ -139,4 +138,3 @@ The used protocol for communication is the .NET messenger service protocol. The 
 
 4.3	DATA REQUIREMENTS
 Not applicable.
-	
