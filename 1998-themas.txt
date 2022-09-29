@@ -1,6 +1,5 @@
 1.0 Introduction
-The following subsections of Section 1.0 provide an overview of
-the entire Software Requirements Specification.
+The following subsections of Section 1.0 provide an overview of the entire Software Requirements Specification.
 1.1 Purpose
 This Software Requirements Specification (SRS) specifies the qualification requirements for The Energy Management System (THEMAS). It provides a technical description of all so ftware requirements of the system, provides traceability of software capability requirements to the Statement of Work, and identifies external interfaces. This document is intended for use by the Design Requirements team, Principle Software Architect, and other parties interested in the development and progression of THEMAS.
 1.2 Scope
