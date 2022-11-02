@@ -1,0 +1,16 @@
+@RELATION 2004-sprat
+@ATTRIBUTE actualWordPOS {NOUN, VERB, ADJ, ADV, AUX, PRON, PROPN, PUNCT, X, SCONJ, ADP, CCONJ, INTJ, NUM, DET, SYM, SPACE, PART}
+@ATTRIBUTE predictedWordPOS {NOUN, VERB, ADJ, ADV, AUX, PRON, PROPN, PUNCT, X, SCONJ, ADP, CCONJ, INTJ, NUM, DET, SYM, SPACE, PART}
+@ATTRIBUTE posTagsMatch {TRUE, FALSE}
+@ATTRIBUTE numTimesPredicted numeric
+@ATTRIBUTE numTimesInCorpus numeric
+@ATTRIBUTE predictedTokenLength numeric
+@ATTRIBUTE actualTokenLength numeric
+@ATTRIBUTE ratioOfTokenLengths numeric
+@ATTRIBUTE levDistance numeric
+@ATTRIBUTE semanticSim numeric
+@ATTRIBUTE tfidfAverageRank numeric
+@ATTRIBUTE tfidfHighestRank numeric
+@ATTRIBUTE predictedProba numeric
+@ATTRIBUTE class {TRUE, FALSE}
+@DATA
